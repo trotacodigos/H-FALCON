@@ -1,0 +1,299 @@
+idx,sent_score,tot_score,Information Density,Idea Development,Terminology Control,Style Register,Reference Consistency,Logical Connectivity,Modality and Attitude,Participant Focus,Relational Address,time
+0,3,8,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,49.325
+1,3,8,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,medium,not relevant,24.207
+2,4,8,not relevant,not relevant,not relevant,medium,not relevant,not relevant,medium,not relevant,not relevant,111.361
+3,3,7,low,not relevant,medium,medium,not relevant,not relevant,not relevant,not relevant,not relevant,146.528
+4,3,8,not relevant,not relevant,medium,medium,not relevant,not relevant,medium,not relevant,not relevant,91.492
+5,4,9,not relevant,not relevant,high,medium,not relevant,not relevant,not relevant,not relevant,not relevant,29.782
+6,4,10,not relevant,not relevant,not relevant,high,high,not relevant,not relevant,not relevant,not relevant,25.219
+7,3,9,not relevant,not relevant,high,medium,not relevant,not relevant,not relevant,not relevant,not relevant,28.33
+8,4,10,not relevant,not relevant,high,medium,not relevant,not relevant,not relevant,not relevant,not relevant,119.926
+9,4,10,not relevant,not relevant,high,high,not relevant,not relevant,not relevant,not relevant,not relevant,73.217
+10,4,8,not relevant,not relevant,not relevant,high,low,not relevant,not relevant,not relevant,not relevant,24.635
+11,4,9,not relevant,not relevant,high,high,not relevant,not relevant,medium,not relevant,not relevant,49.657
+12,3,8,not relevant,not relevant,high,high,medium,not relevant,not relevant,not relevant,not relevant,78.267
+13,3,7,not relevant,medium,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,28.438
+14,4,10,not relevant,not relevant,high,high,not relevant,not relevant,not relevant,not relevant,not relevant,58.716
+15,4,9,not relevant,not relevant,not relevant,medium,not relevant,not relevant,high,not relevant,not relevant,41.826
+16,3,7,medium,not relevant,not relevant,medium,low,not relevant,not relevant,not relevant,not relevant,68.958
+17,4,8,not relevant,medium,medium,medium,medium,not relevant,not relevant,not relevant,not relevant,37.294
+18,2,6,not relevant,not relevant,medium,medium,not relevant,low,not relevant,not relevant,not relevant,72.207
+19,4,9,not relevant,not relevant,not relevant,medium,medium,not relevant,not relevant,not relevant,not relevant,32.765
+20,4,8,medium,not relevant,high,medium,medium,not relevant,not relevant,not relevant,not relevant,165.593
+21,4,10,not relevant,not relevant,high,medium,not relevant,not relevant,high,not relevant,not relevant,54.759
+22,3,8,not relevant,not relevant,high,medium,not relevant,not relevant,not relevant,not relevant,not relevant,63.011
+23,4,9,medium,not relevant,not relevant,medium,medium,not relevant,not relevant,not relevant,not relevant,116.611
+24,3,8,not relevant,not relevant,medium,high,not relevant,not relevant,not relevant,not relevant,not relevant,23.86
+25,3,9,medium,not relevant,high,high,not relevant,not relevant,not relevant,not relevant,not relevant,100.881
+26,3,8,not relevant,not relevant,not relevant,medium,medium,medium,not relevant,not relevant,not relevant,59.303
+27,3,8,not relevant,not relevant,medium,medium,not relevant,not relevant,not relevant,not relevant,not relevant,22.279
+28,3,8,medium,not relevant,not relevant,medium,low,not relevant,not relevant,not relevant,not relevant,108.405
+29,3,8,medium,not relevant,high,medium,not relevant,not relevant,not relevant,not relevant,not relevant,32.393
+30,3,9,not relevant,medium,not relevant,high,medium,not relevant,high,not relevant,not relevant,30.143
+31,3,8,not relevant,not relevant,not relevant,medium,not relevant,medium,high,not relevant,not relevant,62.645
+32,3,7,medium,not relevant,not relevant,high,medium,not relevant,not relevant,not relevant,not relevant,51.893
+33,3,9,not relevant,not relevant,medium,high,not relevant,not relevant,not relevant,not relevant,not relevant,58.961
+34,3,8,not relevant,not relevant,high,not relevant,not relevant,not relevant,high,medium,not relevant,67.098
+35,3,9,not relevant,not relevant,not relevant,not relevant,medium,not relevant,medium,not relevant,not relevant,33.152
+36,3,8,not relevant,not relevant,medium,not relevant,low,high,high,not relevant,not relevant,39.1
+37,3,9,not relevant,not relevant,high,not relevant,medium,medium,high,not relevant,not relevant,70.89
+38,4,10,not relevant,not relevant,high,high,not relevant,not relevant,high,not relevant,not relevant,16.935
+39,3,9,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,3557.569
+40,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,13.951
+41,3,7,not relevant,not relevant,not relevant,high,low,not relevant,medium,not relevant,not relevant,22.21
+42,3,7,not relevant,low,high,medium,not relevant,not relevant,not relevant,not relevant,not relevant,30.763
+43,2,5,not relevant,not relevant,not relevant,medium,low,not relevant,not relevant,not relevant,not relevant,17.686
+44,4,10,not relevant,not relevant,high,medium,not relevant,not relevant,not relevant,not relevant,not relevant,53.314
+45,3,7,not relevant,not relevant,high,high,low,not relevant,not relevant,not relevant,not relevant,72.839
+46,3,9,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,23.436
+47,3,8,medium,medium,high,high,low,not relevant,not relevant,not relevant,not relevant,41.152
+48,4,9,not relevant,not relevant,high,high,medium,not relevant,high,not relevant,not relevant,34.227
+49,4,8,not relevant,low,medium,high,low,not relevant,high,not relevant,not relevant,60.691
+50,4,9,not relevant,medium,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,15.817
+51,3,9,not relevant,not relevant,high,high,not relevant,not relevant,not relevant,not relevant,not relevant,49.562
+52,4,10,not relevant,not relevant,high,high,not relevant,high,not relevant,not relevant,not relevant,49.037
+53,4,9,not relevant,medium,high,high,medium,not relevant,not relevant,not relevant,not relevant,47.319
+54,4,9,not relevant,not relevant,high,medium,medium,not relevant,high,not relevant,not relevant,22.227
+55,3,8,medium,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,20.772
+56,4,10,not relevant,not relevant,high,high,medium,not relevant,not relevant,not relevant,not relevant,25.189
+57,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,39.325
+58,4,9,not relevant,not relevant,not relevant,high,medium,not relevant,medium,not relevant,not relevant,40.505
+59,3,8,medium,not relevant,high,medium,medium,not relevant,high,not relevant,not relevant,36.854
+60,4,9,not relevant,not relevant,not relevant,medium,medium,not relevant,not relevant,not relevant,not relevant,36.427
+61,3,9,medium,not relevant,high,high,medium,not relevant,not relevant,not relevant,not relevant,99.355
+62,3,8,not relevant,medium,not relevant,medium,high,not relevant,high,not relevant,not relevant,51.95
+63,4,9,not relevant,not relevant,high,medium,medium,not relevant,not relevant,not relevant,not relevant,26.098
+64,4,10,not relevant,medium,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,30.63
+65,4,9,not relevant,medium,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,19.387
+66,3,7,medium,not relevant,high,medium,not relevant,not relevant,not relevant,not relevant,not relevant,31.495
+67,3,7,low,not relevant,not relevant,high,medium,not relevant,high,not relevant,not relevant,52.242
+68,3,6,not relevant,not relevant,low,low,not relevant,not relevant,not relevant,not relevant,not relevant,32.331
+69,4,7,not relevant,not relevant,medium,medium,not relevant,not relevant,low,not relevant,not relevant,21.676
+70,3,8,not relevant,medium,high,high,not relevant,not relevant,not relevant,not relevant,not relevant,27.1
+71,3,7,not relevant,not relevant,low,medium,not relevant,not relevant,not relevant,not relevant,not relevant,19.883
+72,3,8,not relevant,not relevant,medium,medium,not relevant,not relevant,not relevant,not relevant,not relevant,29.571
+73,3,7,medium,not relevant,medium,not relevant,low,not relevant,not relevant,not relevant,not relevant,18.07
+74,3,5,not relevant,not relevant,low,medium,not relevant,low,not relevant,not relevant,not relevant,54.433
+75,3,9,medium,not relevant,not relevant,medium,not relevant,high,not relevant,not relevant,not relevant,72.321
+76,4,9,not relevant,not relevant,medium,medium,not relevant,low,not relevant,not relevant,not relevant,32.954
+77,4,9,not relevant,high,high,medium,not relevant,not relevant,medium,not relevant,not relevant,47.632
+78,4,9,not relevant,not relevant,not relevant,medium,not relevant,medium,not relevant,not relevant,not relevant,24.589
+79,3,7,medium,not relevant,not relevant,medium,high,low,not relevant,not relevant,not relevant,32.053
+80,4,8,not relevant,not relevant,high,medium,not relevant,not relevant,not relevant,medium,not relevant,46.242
+81,4,9,not relevant,medium,high,high,not relevant,not relevant,not relevant,not relevant,not relevant,23.499
+82,4,9,not relevant,not relevant,medium,medium,not relevant,not relevant,not relevant,not relevant,not relevant,23.551
+83,4,9,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,medium,not relevant,27.938
+84,3,9,not relevant,not relevant,medium,medium,not relevant,not relevant,not relevant,medium,not relevant,40.065
+85,3,8,not relevant,medium,high,medium,not relevant,not relevant,not relevant,not relevant,not relevant,26.385
+86,3,9,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,23.311
+87,3,9,not relevant,not relevant,high,medium,not relevant,not relevant,not relevant,not relevant,not relevant,42.719
+88,3,9,not relevant,not relevant,high,medium,not relevant,not relevant,not relevant,not relevant,not relevant,11.213
+89,3,10,not relevant,not relevant,high,medium,not relevant,not relevant,not relevant,not relevant,not relevant,23.536
+90,3,10,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,high,not relevant,64.12100000000001
+91,4,10,not relevant,high,not relevant,high,not relevant,not relevant,high,medium,not relevant,743.109
+92,3,9,medium,not relevant,medium,medium,not relevant,not relevant,not relevant,not relevant,not relevant,95.848
+93,4,9,not relevant,medium,high,medium,not relevant,not relevant,not relevant,not relevant,not relevant,36.278
+94,4,10,not relevant,not relevant,high,medium,high,not relevant,not relevant,not relevant,not relevant,21.466
+95,4,9,not relevant,medium,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,37.828
+96,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,25.0
+97,3,8,not relevant,low,not relevant,not relevant,not relevant,not relevant,low,not relevant,not relevant,112.164
+98,1,1,not relevant,low,not relevant,not relevant,not relevant,not relevant,low,not relevant,not relevant,24.738
+99,4,5,not relevant,not relevant,not relevant,low,not relevant,not relevant,low,not relevant,low,39.081
+100,2,6,not relevant,not relevant,not relevant,high,low,not relevant,high,not relevant,medium,107.437
+101,4,9,not relevant,not relevant,not relevant,high,not relevant,not relevant,medium,not relevant,not relevant,70.289
+102,4,9,not relevant,not relevant,not relevant,high,not relevant,high,medium,not relevant,not relevant,182.805
+103,4,9,not relevant,not relevant,not relevant,medium,not relevant,not relevant,high,not relevant,not relevant,15.986
+104,4,9,not relevant,not relevant,high,medium,not relevant,not relevant,high,not relevant,not relevant,99.301
+105,2,6,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,91.146
+106,3,8,not relevant,not relevant,not relevant,medium,not relevant,not relevant,high,not relevant,not relevant,57.364
+107,4,8,not relevant,not relevant,not relevant,low,not relevant,not relevant,high,not relevant,medium,31.695
+108,4,8,not relevant,not relevant,not relevant,medium,medium,not relevant,medium,not relevant,not relevant,26.323
+109,3,9,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,high,22.603
+110,4,10,not relevant,high,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,17.975
+111,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,13.646
+112,3,7,medium,not relevant,not relevant,low,not relevant,not relevant,not relevant,medium,not relevant,27.489
+113,4,5,not relevant,low,not relevant,low,not relevant,not relevant,not relevant,not relevant,not relevant,35.584
+114,1,5,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,low,25.189
+115,4,10,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,14.345
+116,4,10,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,16.089
+117,4,10,not relevant,not relevant,high,medium,not relevant,not relevant,not relevant,not relevant,not relevant,24.113
+118,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,22.421
+119,3,7,not relevant,low,not relevant,not relevant,not relevant,not relevant,medium,not relevant,not relevant,18.702
+120,3,8,not relevant,medium,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,14.99
+121,3,6,not relevant,not relevant,not relevant,low,not relevant,not relevant,medium,not relevant,not relevant,1076.386
+122,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,10.334
+123,4,10,not relevant,not relevant,not relevant,medium,high,not relevant,not relevant,not relevant,not relevant,17.244
+124,3,9,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,17.864
+125,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,14.749
+126,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,16.809
+127,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,15.014
+128,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,7.567
+129,4,10,not relevant,not relevant,not relevant,high,not relevant,high,not relevant,not relevant,not relevant,21.486
+130,4,10,not relevant,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,18.905
+131,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,9.647
+132,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,33.755
+133,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,10.657
+134,4,8,not relevant,not relevant,not relevant,low,not relevant,not relevant,not relevant,not relevant,not relevant,34.7
+135,4,9,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,9.064
+136,4,9,not relevant,not relevant,not relevant,medium,not relevant,high,not relevant,not relevant,not relevant,19.01
+137,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,16.113
+138,4,10,not relevant,not relevant,high,high,not relevant,not relevant,high,not relevant,not relevant,12.896
+139,2,5,not relevant,not relevant,not relevant,high,not relevant,high,not relevant,not relevant,not relevant,19.996
+140,4,10,not relevant,not relevant,not relevant,medium,not relevant,high,not relevant,not relevant,not relevant,19.154
+141,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,18.694
+142,3,8,not relevant,low,not relevant,high,high,not relevant,not relevant,not relevant,not relevant,23.5
+143,3,8,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,medium,13.831
+144,4,10,not relevant,not relevant,not relevant,medium,not relevant,high,high,not relevant,not relevant,26.932
+145,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,13.69
+146,2,7,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,28.178
+147,3,7,not relevant,not relevant,not relevant,medium,low,not relevant,not relevant,not relevant,not relevant,21.672
+148,3,8,not relevant,not relevant,medium,low,not relevant,not relevant,not relevant,not relevant,not relevant,9.821
+149,3,7,not relevant,high,not relevant,medium,medium,not relevant,not relevant,not relevant,not relevant,1230.543
+150,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,10.024
+151,2,7,not relevant,not relevant,not relevant,high,medium,not relevant,not relevant,not relevant,not relevant,35.824
+152,3,8,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,32.051
+153,3,8,not relevant,not relevant,not relevant,medium,not relevant,high,not relevant,not relevant,not relevant,17.355
+154,3,8,medium,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,22.678
+155,4,8,medium,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,14.432
+156,4,9,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,medium,not relevant,18.356
+157,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,13.834
+158,2,5,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,55.261
+159,2,6,medium,not relevant,not relevant,high,not relevant,high,not relevant,not relevant,not relevant,32.788
+160,3,9,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,1086.277
+161,4,6,not relevant,low,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,33.116
+162,4,10,not relevant,not relevant,not relevant,high,not relevant,high,not relevant,not relevant,not relevant,23.822
+163,1,1,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,29.793
+164,2,7,not relevant,not relevant,high,high,not relevant,not relevant,not relevant,not relevant,not relevant,29.424
+165,4,10,not relevant,not relevant,high,high,not relevant,not relevant,not relevant,not relevant,not relevant,10.383
+166,2,5,not relevant,not relevant,not relevant,high,not relevant,not relevant,low,not relevant,not relevant,23.389
+167,4,10,not relevant,not relevant,high,high,not relevant,not relevant,not relevant,not relevant,not relevant,7.761
+168,4,10,not relevant,not relevant,high,high,not relevant,not relevant,not relevant,not relevant,not relevant,8.744
+169,3,5,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,8.676
+170,3,9,medium,not relevant,not relevant,medium,not relevant,high,not relevant,not relevant,not relevant,22.477
+171,4,9,medium,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,9.564
+172,2,7,not relevant,not relevant,not relevant,high,not relevant,low,not relevant,not relevant,not relevant,19.098
+173,3,8,not relevant,not relevant,not relevant,high,not relevant,medium,high,not relevant,not relevant,21.943
+174,3,8,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,21.63
+175,2,6,not relevant,not relevant,not relevant,low,not relevant,not relevant,not relevant,not relevant,not relevant,19.146
+176,2,6,not relevant,not relevant,not relevant,low,not relevant,not relevant,not relevant,not relevant,not relevant,9.035
+177,2,5,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,18.963
+178,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,18.169
+179,2,7,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,21.93
+180,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,6.393
+181,4,9,not relevant,not relevant,not relevant,high,not relevant,medium,not relevant,not relevant,not relevant,24.776
+182,4,9,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,9.74
+183,3,8,not relevant,medium,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,22.482
+184,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,6.473
+185,2,7,not relevant,not relevant,not relevant,high,low,not relevant,not relevant,not relevant,not relevant,16.142
+186,4,9,not relevant,not relevant,high,medium,not relevant,not relevant,not relevant,not relevant,not relevant,11.222
+187,4,10,not relevant,high,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,1116.071
+188,4,10,not relevant,not relevant,not relevant,medium,not relevant,not relevant,high,not relevant,not relevant,31.575
+189,4,9,not relevant,not relevant,not relevant,high,not relevant,medium,not relevant,not relevant,not relevant,12.599
+190,4,9,not relevant,not relevant,not relevant,high,not relevant,medium,not relevant,not relevant,not relevant,21.542
+191,4,9,not relevant,not relevant,not relevant,high,not relevant,not relevant,low,not relevant,not relevant,10.484
+192,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,9.064
+193,2,5,not relevant,not relevant,not relevant,high,low,not relevant,not relevant,not relevant,not relevant,30.049
+194,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,14.588
+195,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,5.936
+196,2,7,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,14.197
+197,3,7,not relevant,not relevant,not relevant,high,medium,not relevant,medium,not relevant,not relevant,38.728
+198,4,10,not relevant,not relevant,not relevant,high,not relevant,high,high,not relevant,not relevant,22.665
+199,4,9,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,15.571
+200,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,8.287
+201,4,10,not relevant,medium,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,14.654
+202,4,9,not relevant,medium,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,10.361
+203,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,20.312
+204,4,10,not relevant,not relevant,high,high,not relevant,not relevant,not relevant,not relevant,not relevant,10.82
+205,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,9.192
+206,3,8,not relevant,not relevant,medium,medium,not relevant,not relevant,not relevant,not relevant,not relevant,17.097
+207,4,9,not relevant,not relevant,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,32.797
+208,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,9.608
+209,2,5,not relevant,not relevant,not relevant,high,low,not relevant,not relevant,not relevant,not relevant,12.161
+210,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,14.867
+211,3,7,not relevant,not relevant,not relevant,high,not relevant,not relevant,low,not relevant,not relevant,18.953
+212,3,9,not relevant,medium,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,23.742
+213,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,8.837
+214,4,9,not relevant,medium,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,15.725
+215,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,11.201
+216,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,476.896
+217,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,10.711
+218,2,7,not relevant,not relevant,medium,high,not relevant,not relevant,not relevant,not relevant,not relevant,10.007
+219,3,9,not relevant,medium,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,21.872
+220,3,9,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,14.661
+221,3,8,not relevant,not relevant,medium,high,not relevant,not relevant,not relevant,not relevant,not relevant,41.249
+222,4,10,not relevant,not relevant,high,high,not relevant,not relevant,not relevant,not relevant,not relevant,21.758
+223,2,6,not relevant,medium,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,16.243
+224,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,10.272
+225,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,5.168
+226,4,9,not relevant,not relevant,high,high,not relevant,not relevant,not relevant,medium,not relevant,24.723
+227,4,9,not relevant,not relevant,not relevant,high,not relevant,not relevant,medium,not relevant,not relevant,14.709
+228,4,10,not relevant,medium,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,17.795
+229,3,8,not relevant,not relevant,medium,high,not relevant,medium,not relevant,not relevant,not relevant,35.896
+230,3,8,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,11.589
+231,4,10,not relevant,not relevant,not relevant,high,high,not relevant,not relevant,not relevant,not relevant,16.628
+232,3,9,not relevant,not relevant,high,high,not relevant,not relevant,not relevant,not relevant,not relevant,19.669
+233,2,5,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,20.523
+234,3,7,not relevant,not relevant,medium,high,not relevant,not relevant,not relevant,not relevant,not relevant,15.961
+235,4,9,not relevant,medium,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,19.172
+236,4,9,not relevant,not relevant,not relevant,high,not relevant,medium,not relevant,not relevant,not relevant,18.057
+237,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,8.742
+238,3,9,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,medium,not relevant,19.152
+239,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,6.786
+240,4,6,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,low,not relevant,18.525
+241,4,8,not relevant,medium,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,27.602
+242,4,9,not relevant,not relevant,not relevant,high,not relevant,high,not relevant,not relevant,not relevant,26.161
+243,4,10,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,not relevant,medium,392.304
+244,4,10,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,not relevant,not relevant,38.831
+245,4,10,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,not relevant,not relevant,23.937
+246,3,8,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,20.196
+247,4,9,not relevant,not relevant,not relevant,not relevant,low,not relevant,high,not relevant,not relevant,18.918
+248,3,9,medium,not relevant,not relevant,not relevant,not relevant,high,high,not relevant,medium,29.452
+249,4,10,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,not relevant,not relevant,7.153
+250,4,10,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,not relevant,not relevant,11.515
+251,4,9,medium,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,19.505
+252,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,16.372
+253,3,8,not relevant,medium,not relevant,medium,not relevant,not relevant,not relevant,not relevant,not relevant,36.312
+254,3,8,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,medium,not relevant,not relevant,20.223
+255,4,9,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,medium,not relevant,28.951
+256,3,9,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,27.532
+257,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,not relevant,5.953
+258,3,9,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,medium,not relevant,44.909
+259,3,8,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,medium,not relevant,not relevant,22.439
+260,4,10,not relevant,not relevant,not relevant,not relevant,high,not relevant,high,not relevant,not relevant,11.918
+261,3,8,not relevant,medium,not relevant,not relevant,not relevant,not relevant,high,not relevant,not relevant,22.306
+262,4,10,not relevant,not relevant,not relevant,not relevant,medium,not relevant,high,not relevant,not relevant,10.998
+263,3,7,medium,not relevant,not relevant,not relevant,not relevant,not relevant,high,medium,not relevant,33.928
+264,3,8,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,medium,not relevant,25.712
+265,3,8,not relevant,not relevant,not relevant,not relevant,medium,not relevant,high,not relevant,not relevant,27.532
+266,4,10,not relevant,not relevant,not relevant,not relevant,not relevant,high,high,not relevant,not relevant,14.1
+267,3,8,not relevant,not relevant,not relevant,not relevant,not relevant,high,high,not relevant,not relevant,16.327
+268,3,9,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,not relevant,not relevant,28.958
+269,3,8,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,medium,not relevant,26.233
+270,3,8,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,not relevant,not relevant,20.582
+271,4,10,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,not relevant,not relevant,6.078
+272,4,10,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,not relevant,not relevant,5.988
+273,4,9,not relevant,not relevant,not relevant,not relevant,low,high,high,not relevant,not relevant,27.285
+274,3,8,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,medium,not relevant,21.006
+275,3,8,not relevant,high,not relevant,not relevant,medium,not relevant,high,not relevant,not relevant,64.076
+276,3,9,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,not relevant,not relevant,24.604
+277,3,8,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,not relevant,medium,22.534
+278,4,8,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,medium,not relevant,19.605
+279,4,10,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,high,not relevant,not relevant,15.689
+280,4,10,not relevant,high,not relevant,not relevant,not relevant,not relevant,high,not relevant,not relevant,16.102
+281,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,8.018
+282,3,8,not relevant,not relevant,not relevant,not relevant,not relevant,not relevant,medium,not relevant,not relevant,18.627
+283,4,9,not relevant,medium,not relevant,not relevant,not relevant,not relevant,high,not relevant,not relevant,24.832
+284,2,5,not relevant,not relevant,not relevant,high,high,not relevant,not relevant,not relevant,low,51.936
+285,2,5,not relevant,not relevant,not relevant,high,not relevant,not relevant,not relevant,not relevant,high,24.002
+286,4,10,not relevant,high,not relevant,not relevant,not relevant,not relevant,high,not relevant,not relevant,20.07
+287,4,8,not relevant,not relevant,not relevant,not relevant,high,low,high,not relevant,not relevant,39.186
+288,4,7,not relevant,not relevant,not relevant,not relevant,low,not relevant,high,not relevant,not relevant,31.629
+289,4,9,not relevant,not relevant,not relevant,low,not relevant,not relevant,high,not relevant,not relevant,28.571
+290,4,10,not relevant,not relevant,not relevant,not relevant,not relevant,high,high,not relevant,not relevant,23.874
+291,3,7,not relevant,not relevant,not relevant,medium,not relevant,not relevant,high,not relevant,medium,28.664
+292,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,high,13.919
+293,4,9,not relevant,not relevant,not relevant,medium,not relevant,not relevant,high,not relevant,not relevant,15.469
+294,3,9,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,high,25.857
+295,4,10,not relevant,not relevant,not relevant,high,not relevant,not relevant,high,not relevant,not relevant,14.219
+296,4,9,not relevant,high,not relevant,not relevant,not relevant,not relevant,high,not relevant,not relevant,34.443
+297,3,8,not relevant,not relevant,not relevant,medium,low,medium,high,not relevant,not relevant,65.725

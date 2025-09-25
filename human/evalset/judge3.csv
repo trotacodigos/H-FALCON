@@ -1,0 +1,810 @@
+idx,domain,context,skill,span,time
+0,news,Local,"['Idea Development', 'Terminology Control', 'Modality and Attitude']","[{""start"":28,""end"":68,""text"":""Letting Corporate Criminals Off the Hook"",""labels"":[""need context""]}]",36.438
+1,news,Universal,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']","[{""start"":25,""end"":28,""text"":""EPA"",""labels"":[""need context""]}]",17.084
+2,news,Local,"['Style Register', 'Reference Consistency', 'Modality and Attitude']","[{""start"":97,""end"":99,""text"":""he"",""labels"":[""need context""]},{""start"":105,""end"":107,""text"":""me"",""labels"":[""need context""]}]",25.198
+3,news,Extended,"['Information Density', 'Style Register', 'Relational Address']","[{""start"":57,""end"":60,""text"":""EPA"",""labels"":[""need context""]}]",18.177999999999997
+4,news,Universal,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":20,""end"":23,""text"":""EPA"",""labels"":[""need context""]}]",26.708
+5,news,Extended,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']",,8.908
+6,news,Extended,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":4,""end"":7,""text"":""EPA"",""labels"":[""need context""]},{""start"":59,""end"":63,""text"":""ENRD"",""labels"":[""need context""]}]",20.288
+7,news,Universal,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":25,""end"":28,""text"":""EPA"",""labels"":[""need context""]},{""start"":53,""end"":56,""text"":""DOJ"",""labels"":[""need context""]}]",27.613
+8,news,Extended,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":3,""end"":38,""text"":""the Environmental Integrity Project"",""labels"":[""need context""]},{""start"":59,""end"":62,""text"":""EPA"",""labels"":[""need context""]},{""start"":127,""end"":130,""text"":""DOJ"",""labels"":[""need context""]}]",49.782
+9,news,Sentence-level,"['Idea Development', 'Participant Focus', 'Modality and Attitude']",,23.111
+10,news,Extended,"['Information Density', 'Reference Consistency', 'Participant Focus']","[{""start"":184,""end"":187,""text"":""DOJ"",""labels"":[""need context""]}]",25.819
+11,news,Extended,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":58,""end"":61,""text"":""DOJ"",""labels"":[""need context""]}]",19.952
+12,news,Sentence-level,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']","[{""start"":42,""end"":51,""text"":""rent caps"",""labels"":[""need context""]}]",20.548
+13,news,Sentence-level,"['Idea Development', 'Participant Focus', 'Modality and Attitude']",,24.129
+14,news,Sentence-level,"['Idea Development', 'Logical Connectivity', 'Modality and Attitude']",,25.799
+15,news,Sentence-level,"['Information Density', 'Terminology Control', 'Modality and Attitude']",,11.122
+16,news,Sentence-level,"['Idea Development', 'Participant Focus', 'Modality and Attitude']",,20.269
+17,news,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,81.724
+18,news,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":75,""end"":79,""text"":""this"",""labels"":[""need context""]}]",18.428
+19,news,Sentence-level,"['Information Density', 'Logical Connectivity', 'Modality and Attitude']",,23.724
+20,news,Sentence-level,"['Idea Development', 'Reference Consistency', 'Participant Focus']",,11.965
+21,news,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,19.903
+22,news,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":68,""end"":93,""text"":""if experts are not heeded"",""labels"":[""need context""]}]",44.496
+23,news,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":0,""end"":23,""text"":""This tapering proposal "",""labels"":[""need context""]}]",24.238
+24,news,Sentence-level,"['Information Density', 'Participant Focus', 'Modality and Attitude']",,19.368
+25,news,Sentence-level,"['Participant Focus', 'Modality and Attitude', 'Relational Address']",,15.58
+26,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,16.411
+27,news,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":15,""end"":32,""text"":""this consultation"",""labels"":[""need context""]}]",24.971
+28,news,Sentence-level,"['Idea Development', 'Logical Connectivity', 'Modality and Attitude']",,23.59
+29,news,Sentence-level,"['Information Density', 'Logical Connectivity', 'Modality and Attitude']",,30.352
+30,news,Extended,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":34,""end"":37,""text"":""PRS"",""labels"":[""need context""]}]",23.087
+31,news,Extended,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":31,""end"":34,""text"":""PRS"",""labels"":[""need context""]}]",23.709
+32,news,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,19.94
+33,news,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,17.378
+34,news,Universal,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']","[{""start"":97,""end"":105,""text"":""Scotsman"",""labels"":[""need context""]}]",25.209
+35,news,Sentence-level,"['Idea Development', 'Participant Focus', 'Modality and Attitude']",,18.647
+36,news,Universal,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":105,""end"":117,""text"":""Post Office "",""labels"":[""need context""]},{""start"":52,""end"":64,""text"":""The Scotsman"",""labels"":[""need context""]},{""start"":136,""end"":156,""text"":""the Horizon scandal "",""labels"":[""need context""]}]",36.629
+37,news,Sentence-level,"['Information Density', 'Idea Development', 'Modality and Attitude']",,38.489
+38,news,Extended,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":79,""end"":91,""text"":""Post Office "",""labels"":[""need context""]},{""start"":122,""end"":125,""text"":""MPs"",""labels"":[""need context""]},{""start"":54,""end"":61,""text"":""Horizon"",""labels"":[""need context""]},{""start"":208,""end"":219,""text"":""Post Office"",""labels"":[""need context""]}]",34.636
+39,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,11.57
+40,news,Extended,"['Idea Development', 'Terminology Control', 'Modality and Attitude']","[{""start"":97,""end"":111,""text"":""Downing Street"",""labels"":[""need context""]}]",22.224
+41,news,Universal,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']","[{""start"":73,""end"":107,""text"":"" ITV's Mr Bates Vs The Post Office"",""labels"":[""need context""]}]",14.379
+42,news,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":15,""end"":23,""text"":""inaction"",""labels"":[""need context""]}]",20.531
+43,news,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,10.879
+44,news,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":0,""end"":9,""text"":""The first"",""labels"":[""need context""]}]",203.106
+45,news,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":0,""end"":10,""text"":""The second"",""labels"":[""need context""]}]",14.008
+46,news,Sentence-level,"['Information Density', 'Idea Development', 'Modality and Attitude']",,20.768
+47,news,Sentence-level,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']",,14.903
+48,news,Extended,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,27.57
+49,news,Sentence-level,"['Information Density', 'Participant Focus', 'Modality and Attitude']",,32.499
+50,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,64.642
+51,news,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":23,""end"":27,""text"":""this"",""labels"":[""need context""]}]",22.485
+52,news,Extended,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":25,""end"":27,""text"":""WA"",""labels"":[""need context""]}]",21.027
+53,news,Sentence-level,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']",,12.847
+54,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,15.399
+55,news,Sentence-level,"['Information Density', 'Logical Connectivity', 'Modality and Attitude']",,13.93
+56,news,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,17.535
+57,news,Sentence-level,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']",,34.915
+58,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,21.561
+59,news,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":0,""end"":13,""text"":""What we found"",""labels"":[""need context""]}]",17.856
+60,news,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,16.496
+61,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,21.744
+62,news,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":0,""end"":4,""text"":""This"",""labels"":[""need context""]}]",11.214
+63,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,294.896
+64,news,Sentence-level,"['Information Density', 'Logical Connectivity', 'Modality and Attitude']",,13.667
+65,news,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,9.755
+66,news,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,16.914
+67,news,Local,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']",,24.857
+68,news,Sentence-level,"['Idea Development', 'Participant Focus', 'Modality and Attitude']",,15.98
+69,news,Sentence-level,"['Information Density', 'Idea Development', 'Modality and Attitude']",,16.705
+70,news,Sentence-level,"['Information Density', 'Idea Development', 'Modality and Attitude']",,11.648
+71,news,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,14.877
+72,news,Sentence-level,"['Information Density', 'Reference Consistency', 'Modality and Attitude']",,17.754
+73,news,Sentence-level,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']",,14.988
+74,news,Sentence-level,"['Information Density', 'Reference Consistency', 'Modality and Attitude']",,11.203
+75,news,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,19.688
+76,news,Local,"['Information Density', 'Reference Consistency', 'Modality and Attitude']","[{""start"":0,""end"":2,""text"":""We"",""labels"":[""need context""]}]",25.697
+77,news,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":25,""end"":27,""text"":""it"",""labels"":[""need context""]}]",10.897
+78,news,Universal,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']","[{""start"":104,""end"":122,""text"":""Beyond These Walls"",""labels"":[""need context""]}]",23.223
+79,news,Universal,"['Participant Focus', 'Modality and Attitude', 'Reference Consistency']","[{""start"":21,""end"":49,""text"":""Disability Rights Washington"",""labels"":[""need context""]}]",12.885
+80,social,Sentence-level,"['Information Density', 'Style Register', 'Reference Consistency']",,17.722
+81,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":47,""end"":60,""text"":""the two games"",""labels"":[""need context""]}]",13.322
+82,social,Sentence-level,"['Terminology Control', 'Style Register', 'Logical Connectivity']",,20.605
+83,social,Sentence-level,"['Terminology Control', 'Style Register', 'Logical Connectivity']",,10.719
+84,social,Sentence-level,"['Terminology Control', 'Style Register', 'Logical Connectivity']",,14.71
+85,social,Extended,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":0,""end"":7,""text"":""Celeste"",""labels"":[""need context""]}]",32.693
+86,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Participant Focus']",,19.306
+87,social,Extended,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":0,""end"":7,""text"":""Celeste"",""labels"":[""need context""]}]",14.383
+88,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":63,""end"":78,""text"":"" the connection"",""labels"":[""need context""]}]",69.743
+89,social,Local,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":64,""end"":71,""text"":""the two"",""labels"":[""need context""]}]",32.79
+90,social,Local,"['Idea Development', 'Style Register', 'Reference Consistency']","[{""start"":8,""end"":12,""text"":""that"",""labels"":[""need context""]}]",37.981
+91,social,Local,"['Style Register', 'Reference Consistency', 'Participant Focus']","[{""start"":0,""end"":19,""text"":""which is still neat"",""labels"":[""need context""]}]",14.512
+92,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":21,""end"":25,""text"":""AT&T"",""labels"":[""need context""]}]",13.295
+93,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,5.978
+94,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,8.337
+95,social,Extended,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":33,""end"":37,""text"":""AT&T"",""labels"":[""need context""]}]",21.614
+96,social,Extended,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":4,""end"":9,""text"":""AT&T "",""labels"":[""need context""]}]",27.029
+97,social,Extended,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":73,""end"":77,""text"":""AT&T"",""labels"":[""need context""]}]",13.51
+98,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":15,""end"":19,""text"":""site"",""labels"":[""need context""]}]",44.417
+99,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":37,""end"":41,""text"":""SLAs"",""labels"":[""need context""]}]",8.609
+100,social,Local,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":38,""end"":42,""text"":""5 9s"",""labels"":[""need context""]}]",28.287
+101,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,12.095
+102,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,6.384
+103,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,9.187
+104,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,15.867
+105,social,Local,"['Style Register', 'Participant Focus', 'Relational Address']",,12.13
+106,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":21,""end"":25,""text"":""them"",""labels"":[""need context""]}]",11.023
+107,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Logical Connectivity']",,15.65
+108,social,Sentence-level,"['Idea Development', 'Style Register', 'Reference Consistency']",,13.543
+109,social,Local,"['Information Density', 'Style Register', 'Reference Consistency']","[{""start"":0,""end"":24,""text"":""Might be the odd cheater"",""labels"":[""need context""]}]",24.836
+110,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,13.043
+111,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,42.248
+112,social,Local,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":39,""end"":49,""text"":""Extraction"",""labels"":[""need context""]},{""start"":8,""end"":16,""text"":""the wife"",""labels"":[""need context""]}]",19.622
+113,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":51,""end"":54,""text"":""get"",""labels"":[""need context""]}]",27.046
+114,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,11.121
+115,social,Sentence-level,"['Terminology Control', 'Style Register', 'Participant Focus']",,17.194
+116,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,19.094
+117,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,18.814
+118,social,Local,"['Style Register', 'Participant Focus', 'Relational Address']",,10.94
+119,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":9,""end"":28,""text"":""King Louis the 14th"",""labels"":[""need context""]}]",26.59
+120,social,Extended,"['Terminology Control', 'Style Register', 'Logical Connectivity']",,13.352
+121,social,Universal,"['Terminology Control', 'Style Register', 'Logical Connectivity']","[{""start"":46,""end"":67,""text"":""The Elders of Ireland"",""labels"":[""need context""]}]",13.854
+122,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,7.124
+123,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":17,""end"":34,""text"":""Sourdough Starter"",""labels"":[""need context""]}]",104.93
+124,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,11.075
+125,social,Local,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":7,""end"":9,""text"":""it"",""labels"":[""need context""]}]",85.88
+126,social,Local,"['Idea Development', 'Style Register', 'Participant Focus']",,17.727
+127,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,38.679
+128,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,154.567
+129,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Logical Connectivity']",,23.694
+130,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,7.762
+131,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,7.693
+132,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,8.111
+133,social,Extended,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":47,""end"":59,""text"":"" masto-peeps"",""labels"":[""need context""]}]",19.174
+134,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,11.104
+135,social,Sentence-level,"['Idea Development', 'Style Register', 'Reference Consistency']",,21.554
+136,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,33.206
+137,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,18.94
+138,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,8.425
+139,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,6.862
+140,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,3.784
+141,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,7.798
+142,social,Local,"['Style Register', 'Logical Connectivity', 'Relational Address']",,14.681
+143,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,13.896
+144,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,6.968
+145,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,8.984
+146,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,19.71
+147,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,5.869
+148,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,6.486
+149,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,15.756
+150,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,7.209
+151,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,16.85
+152,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,13.795
+153,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,13.897
+154,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,200.675
+155,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,7.842
+156,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,6.299
+157,social,Extended,"['Terminology Control', 'Style Register', 'Logical Connectivity']","[{""start"":0,""end"":5,""text"":""field"",""labels"":[""need context""]},{""start"":23,""end"":28,""text"":""field"",""labels"":[""need context""]},{""start"":46,""end"":51,""text"":""field"",""labels"":[""need context""]}]",27.851999999999997
+158,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,4.997
+159,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":52,""end"":56,""text"":""that"",""labels"":[""need context""]}]",14.485
+160,social,Extended,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":39,""end"":51,""text"":""HS trig lmao"",""labels"":[""need context""]}]",20.503
+161,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":21,""end"":24,""text"":""DMS"",""labels"":[""need context""]}]",19.002
+162,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":14,""end"":18,""text"":""this"",""labels"":[""need context""]}]",14.38
+163,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,7.273
+164,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,9.774
+165,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,8.217
+166,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,4.168
+167,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,5.061
+168,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,17.196
+169,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":10,""end"":21,""text"":""flightaware"",""labels"":[""need context""]}]",14.76
+170,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,12.501
+171,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,11.341
+172,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":3,""end"":25,""text"":""the challenges in this"",""labels"":[""need context""]}]",10.711
+173,social,Extended,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":86,""end"":89,""text"":""FAA"",""labels"":[""need context""]}]",11.005
+174,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,9.408
+175,social,Local,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":65,""end"":67,""text"":""it"",""labels"":[""need context""]},{""start"":21,""end"":25,""text"":""it's"",""labels"":[""need context""]}]",23.343
+176,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,7.502
+177,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,7.594
+178,social,Universal,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":0,""end"":3,""text"":""FAA"",""labels"":[""need context""]},{""start"":19,""end"":23,""text"":""ADHD"",""labels"":[""need context""]}]",17.966
+179,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,17.994
+180,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,13.414
+181,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,7.131
+182,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,5.695
+183,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,15.296
+184,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,12.278
+185,social,Extended,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":11,""end"":27,""text"":""General Aviation"",""labels"":[""need context""]}]",12.387
+186,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,8.033
+187,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,10.505
+188,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,5.086
+189,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,4.355
+190,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":2,""end"":5,""text"":""did"",""labels"":[""need context""]},{""start"":6,""end"":10,""text"":""this"",""labels"":[""need context""]}]",13.736
+191,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,5.625
+192,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,8.967
+193,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,30.229
+194,social,Local,"['Style Register', 'Participant Focus', 'Relational Address']",,8.19
+195,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,20.277
+196,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,12.632
+197,social,Local,"['Terminology Control', 'Style Register', 'Relational Address']",,11.72
+198,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,4.495
+199,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,13.505
+200,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,10.035
+201,social,Sentence-level,"['Idea Development', 'Style Register', 'Reference Consistency']",,18.281
+202,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,12.895
+203,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,8.269
+204,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,12.501
+205,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,4.159
+206,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,19.782
+207,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,8.393
+208,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,20.022
+209,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,11.066
+210,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,5.186
+211,social,Universal,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":0,""end"":11,""text"":""FlightAware"",""labels"":[""need context""]}]",10.065
+212,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":0,""end"":10,""text"":""This stuff"",""labels"":[""need context""]}]",13.395
+213,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,12.182
+214,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,7.122
+215,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":14,""end"":20,""text"":""rudder"",""labels"":[""need context""]}]",12.727
+216,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,4.937
+217,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":28,""end"":31,""text"":""one"",""labels"":[""need context""]}]",21.371
+218,social,Extended,"['Style Register', 'Reference Consistency', 'Relational Address']",,15.994
+219,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":0,""end"":11,""text"":""Another one"",""labels"":[""need context""]}]",9.257
+220,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,9.271
+221,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,10.413
+222,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,7.003
+223,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,12.806
+224,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,6.306
+225,social,Extended,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":56,""end"":67,""text"":""mega thread"",""labels"":[""need context""]},{""start"":15,""end"":24,""text"":""threading"",""labels"":[""need context""]}]",20.576
+226,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,11.193
+227,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":13,""end"":21,""text"":""Mason Mi"",""labels"":[""need context""]},{""start"":25,""end"":35,""text"":""Sturgis Mi"",""labels"":[""need context""]}]",13.702
+228,social,Extended,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":7,""end"":11,""text"":""Cont"",""labels"":[""need context""]}]",10.688
+229,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":0,""end"":4,""text"":""This"",""labels"":[""need context""]}]",13.687
+230,social,Extended,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":7,""end"":11,""text"":""Cont"",""labels"":[""need context""]},{""start"":13,""end"":26,""text"":""The VFR Chart"",""labels"":[""need context""]}]",29.79
+231,social,Extended,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":15,""end"":23,""text"":""lovelies"",""labels"":[""need context""]}]",14.841
+232,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":56,""end"":58,""text"":""it"",""labels"":[""need context""]}]",11.236
+233,social,Sentence-level,"['Information Density', 'Idea Development', 'Style Register']",,35.849
+234,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,4.242
+235,social,Universal,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":9,""end"":13,""text"":""Cont"",""labels"":[""need context""]},{""start"":19,""end"":30,""text"":""FlightAware"",""labels"":[""need context""]}]",14.115
+236,social,Extended,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":0,""end"":8,""text"":""Lovelies"",""labels"":[""need context""]},{""start"":20,""end"":28,""text"":""lovelies"",""labels"":[""need context""]}]",8.946
+237,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,3.556
+238,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']",,8.664
+239,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,7.097
+240,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,10.516
+241,literary,Local,"['Style Register', 'Participant Focus', 'Relational Address']",,4.358
+242,literary,Sentence-level,"['Information Density', 'Logical Connectivity', 'Modality and Attitude']",,32.086
+243,literary,Sentence-level,"['Participant Focus', 'Logical Connectivity', 'Modality and Attitude']",,29.427
+244,literary,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,20.412
+245,literary,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,15.878
+246,literary,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,21.119
+247,literary,Local,"['Idea Development', 'Style Register', 'Reference Consistency']","[{""start"":60,""end"":77,""text"":"" this same stream"",""labels"":[""need context""]}]",19.233
+248,literary,Sentence-level,"['Idea Development', 'Participant Focus', 'Modality and Attitude']",,32.393
+249,literary,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":16,""end"":18,""text"":""he"",""labels"":[""need context""]}]",13.975
+250,literary,Sentence-level,"['Participant Focus', 'Logical Connectivity', 'Modality and Attitude']",,11.092
+251,literary,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":0,""end"":3,""text"":""His"",""labels"":[""need context""]}]",15.245
+252,literary,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,14.359
+253,literary,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,12.528
+254,literary,Local,"['Idea Development', 'Participant Focus', 'Modality and Attitude']",,17.402
+255,literary,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,7.968
+256,literary,Sentence-level,"['Idea Development', 'Style Register', 'Modality and Attitude']",,27.493
+257,literary,Sentence-level,"['Idea Development', 'Style Register', 'Modality and Attitude']",,12.298
+258,literary,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,180.071
+259,literary,Sentence-level,"['Idea Development', 'Terminology Control', 'Modality and Attitude']",,14.088
+260,literary,Sentence-level,"['Idea Development', 'Participant Focus', 'Modality and Attitude']",,111.499
+261,news,Extended,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":46,""end"":62,""text"":""anti-waste rules"",""labels"":[""need context""]}]",28.232
+262,news,Sentence-level,"['Information Density', 'Terminology Control', 'Logical Connectivity']",,14.286
+263,news,Sentence-level,"['Terminology Control', 'Logical Connectivity', 'Modality and Attitude']",,17.962
+264,news,Sentence-level,"['Idea Development', 'Terminology Control', 'Reference Consistency']",,15.589
+265,news,Extended,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":74,""end"":78,""text"":""MEPs"",""labels"":[""need context""]}]",17.914
+266,news,Extended,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":42,""end"":50,""text"":""the PPWR"",""labels"":[""need context""]}]",21.571
+267,news,Sentence-level,"['Information Density', 'Idea Development', 'Modality and Attitude']",,11.465
+268,news,Sentence-level,"['Information Density', 'Terminology Control', 'Modality and Attitude']",,11.242
+269,news,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,42.962
+270,news,Sentence-level,"['Information Density', 'Participant Focus', 'Modality and Attitude']",,13.465
+271,news,Sentence-level,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']",,10.997
+272,news,Extended,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":8,""end"":16,""text"":""Euronews"",""labels"":[""need context""]},{""start"":0,""end"":2,""text"":""He"",""labels"":[""need context""]}]",22.059
+273,news,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,11.983
+274,news,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,13.27
+275,news,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,19.86
+276,news,Universal,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":30,""end"":38,""text"":""Euronews"",""labels"":[""need context""]}]",28.95
+277,news,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,10.651
+278,news,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":0,""end"":4,""text"":""They"",""labels"":[""need context""]},{""start"":73,""end"":75,""text"":""he"",""labels"":[""need context""]}]",15.654
+279,news,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":40,""end"":44,""text"":""PPWR"",""labels"":[""need context""]}]",9.601
+280,news,Sentence-level,"['Style Register', 'Reference Consistency', 'Modality and Attitude']",,15.195
+281,news,Universal,"['Information Density', 'Terminology Control', 'Modality and Attitude']","[{""start"":57,""end"":88,""text"":""RT Russia & Former Soviet Union"",""labels"":[""need context""]}]",14.17
+282,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,13.241
+283,news,Sentence-level,"['Idea Development', 'Participant Focus', 'Modality and Attitude']",,21.41
+284,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,14.826
+285,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,10.758
+286,news,Universal,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']",,23.814
+287,news,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,10.851
+288,news,Sentence-level,"['Terminology Control', 'Reference Consistency', 'Participant Focus']",,13.894
+289,news,Sentence-level,"['Information Density', 'Reference Consistency', 'Modality and Attitude']",,10.823
+290,news,Sentence-level,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']",,26.338
+291,news,Sentence-level,"['Idea Development', 'Participant Focus', 'Modality and Attitude']",,16.331
+292,news,Extended,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":124,""end"":127,""text"":""MPs"",""labels"":[""need context""]}]",18.164
+293,news,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,21.09
+294,news,Universal,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']","[{""start"":178,""end"":182,""text"":""Lviv"",""labels"":[""need context""]}]",28.382
+295,news,Sentence-level,"['Information Density', 'Terminology Control', 'Modality and Attitude']",,10.075
+296,news,Sentence-level,"['Information Density', 'Terminology Control', 'Modality and Attitude']",,20.726
+297,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,14.51
+298,news,Sentence-level,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']",,11.786
+299,news,Sentence-level,"['Terminology Control', 'Style Register', 'Modality and Attitude']",,49.429
+300,news,Extended,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":0,""end"":6,""text"":""Greggs"",""labels"":[""need context""]}]",29.221
+301,news,Universal,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":0,""end"":13,""text"":""FTSE 250 firm"",""labels"":[""need context""]}]",30.8
+302,news,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,10.418
+303,news,Extended,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":35,""end"":37,""text"":""PA"",""labels"":[""need context""]}]",21.846
+304,news,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":9,""end"":12,""text"":""she"",""labels"":[""need context""]}]",70.653
+305,news,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":0,""end"":6,""text"":""Greggs"",""labels"":[""need context""]}]",27.159
+306,news,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,15.094
+307,news,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":0,""end"":17,""text"":""The FTSE 250 firm"",""labels"":[""need context""]}]",18.919
+308,news,Local,"['Information Density', 'Reference Consistency', 'Relational Address']","[{""start"":0,""end"":2,""text"":""It"",""labels"":[""need context""]}]",16.609
+309,news,Sentence-level,"['Style Register', 'Reference Consistency', 'Modality and Attitude']",,26.149
+310,news,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,19.692
+311,news,Local,"['Information Density', 'Idea Development', 'Reference Consistency']","[{""start"":0,""end"":8,""text"":""The firm"",""labels"":[""need context""]}]",19.13
+312,news,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":0,""end"":2,""text"":""It"",""labels"":[""need context""]}]",15.951
+313,news,Local,"['Information Density', 'Reference Consistency', 'Modality and Attitude']","[{""start"":0,""end"":12,""text"":""The business"",""labels"":[""need context""]}]",20.861
+314,news,Universal,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":59,""end"":65,""text"":""Greggs"",""labels"":[""need context""]},{""start"":33,""end"":52,""text"":""Hargreaves Lansdown"",""labels"":[""need context""]}]",20.968
+315,news,Sentence-level,"['Terminology Control', 'Reference Consistency', 'Logical Connectivity']",,15.339
+316,news,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":23,""end"":29,""text"":""Greggs"",""labels"":[""need context""]},{""start"":0,""end"":6,""text"":""That's"",""labels"":[""need context""]}]",76.833
+317,news,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,8.759
+318,news,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":8,""end"":14,""text"":""Greggs"",""labels"":[""need context""]}]",11.917
+319,news,Sentence-level,"['Idea Development', 'Participant Focus', 'Modality and Attitude']",,11.262
+320,news,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":0,""end"":7,""text"":""The job"",""labels"":[""need context""]}]",9.622
+321,news,Sentence-level,"['Information Density', 'Style Register', 'Modality and Attitude']",,13.306
+322,news,Sentence-level,"['Idea Development', 'Terminology Control', 'Modality and Attitude']",,59.574
+323,news,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,20.946
+324,news,Sentence-level,"['Information Density', 'Reference Consistency', 'Modality and Attitude']",,7.904
+325,news,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":0,""end"":9,""text"":""The first"",""labels"":[""need context""]},{""start"":36,""end"":47,""text"":"" the second"",""labels"":[""need context""]}]",16.995
+326,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,9.927
+327,news,Universal,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":3,""end"":17,""text"":""Google Flights"",""labels"":[""need context""]},{""start"":19,""end"":23,""text"":""it's"",""labels"":[""need context""]},{""start"":87,""end"":91,""text"":""it's"",""labels"":[""need context""]}]",22.863
+328,news,Universal,"['Terminology Control', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":54,""end"":68,""text"":""Google Flights"",""labels"":[""need context""]},{""start"":105,""end"":117,""text"":""Expert Flyer"",""labels"":[""need context""]},{""start"":122,""end"":131,""text"":""Seat Guru"",""labels"":[""need context""]}]",30.5
+329,news,Sentence-level,"['Idea Development', 'Participant Focus', 'Modality and Attitude']",,8.364
+330,news,Sentence-level,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']",,14.547
+331,news,Sentence-level,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']",,15.783
+332,news,Extended,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":28,""end"":31,""text"":""FAA"",""labels"":[""need context""]}]",8.514
+333,news,Sentence-level,"['Terminology Control', 'Reference Consistency', 'Participant Focus']",,19.407
+334,news,Sentence-level,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']",,15.128
+335,news,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":4,""end"":16,""text"":""those models"",""labels"":[""need context""]}]",13.511
+336,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,14.911
+337,news,Sentence-level,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']",,14.261
+338,news,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":64,""end"":80,""text"":""the lowest rate,"",""labels"":[""need context""]}]",19.363999999999997
+339,news,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":63,""end"":77,""text"":""a rate of 1.48"",""labels"":[""need context""]}]",13.845
+340,news,Sentence-level,"['Information Density', 'Reference Consistency', 'Logical Connectivity']",,12.434
+341,news,Local,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']",,13.101
+342,news,Sentence-level,"['Idea Development', 'Logical Connectivity', 'Modality and Attitude']",,14.323
+343,news,Extended,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":88,""end"":91,""text"":""FAA"",""labels"":[""need context""]}]",18.033
+344,news,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":31,""end"":49,""text"":""the administration"",""labels"":[""need context""]}]",20.547
+345,news,Extended,"['Information Density', 'Reference Consistency', 'Modality and Attitude']","[{""start"":208,""end"":211,""text"":""FAA"",""labels"":[""need context""]}]",11.874
+346,news,Extended,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":4,""end"":7,""text"":""FAA"",""labels"":[""need context""]}]",16.505
+347,social,Extended,"['Idea Development', 'Terminology Control', 'Reference Consistency']","[{""start"":0,""end"":22,""text"":""Jakob Nielsen’s all-in"",""labels"":[""need context""]}]",38.415
+348,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,10.375
+349,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,9.768
+350,social,Local,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":16,""end"":41,""text"":""the eliminating craft bit"",""labels"":[""need context""]}]",33.172
+351,social,Sentence-level,"['Information Density', 'Style Register', 'Relational Address']",,8.735
+352,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,8.291
+353,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":26,""end"":42,""text"":""their inner life"",""labels"":[""need context""]}]",13.555
+354,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,35.215
+355,social,Local,"['Idea Development', 'Style Register', 'Reference Consistency']","[{""start"":7,""end"":14,""text"":""sharing"",""labels"":[""need context""]}]",22.244
+356,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,9.737
+357,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Logical Connectivity']",,11.72
+358,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Modality and Attitude']",,13.962
+359,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,41.034
+360,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,9.951
+361,social,Universal,"['Terminology Control', 'Style Register', 'Modality and Attitude']","[{""start"":132,""end"":152,""text"":""chiari malformation)"",""labels"":[""need context""]}]",23.96
+362,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,7.825
+363,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']",,12.789
+364,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,5.157
+365,social,Sentence-level,"['Terminology Control', 'Style Register', 'Reference Consistency']",,21.345
+366,social,Local,"['Idea Development', 'Style Register', 'Logical Connectivity']",,11.34
+367,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,6.695
+368,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,4.516
+369,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,6.789
+370,social,Universal,"['Terminology Control', 'Style Register', 'Logical Connectivity']","[{""start"":42,""end"":44,""text"":""OR"",""labels"":[""need context""]}]",15.897
+371,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,9.857
+372,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,16.388
+373,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":33,""end"":36,""text"":""ICU"",""labels"":[""need context""]}]",8.726
+374,social,Extended,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":0,""end"":3,""text"":""ICU"",""labels"":[""need context""]}]",16.557
+375,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":61,""end"":75,""text"":""Grey’s Anatomy"",""labels"":[""need context""]}]",8.181
+376,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":10,""end"":18,""text"":""McDreamy"",""labels"":[""need context""]}]",14.07
+377,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,8.764
+378,social,Extended,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":26,""end"":43,""text"":""Hospital Playlist"",""labels"":[""need context""]},{""start"":133,""end"":139,""text"":""Grey’s"",""labels"":[""need context""]}]",16.181
+379,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,13.776
+380,social,Extended,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":53,""end"":70,""text"":""Hospital Playlist"",""labels"":[""need context""]}]",8.544
+381,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,23.825
+382,social,Sentence-level,"['Information Density', 'Style Register', 'Relational Address']",,12.768
+383,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":60,""end"":70,""text"":""the source"",""labels"":[""need context""]}]",21.13
+384,social,Local,"['Style Register', 'Logical Connectivity', 'Relational Address']","[{""start"":55,""end"":86,""text"":"" those parasocial relationships"",""labels"":[""need context""]}]",17.437
+385,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,5.305
+386,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":5,""end"":15,""text"":""The Office"",""labels"":[""need context""]}]",14.958
+387,social,Sentence-level,"['Terminology Control', 'Style Register', 'Logical Connectivity']",,21.492
+388,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":83,""end"":85,""text"":""it"",""labels"":[""need context""]}]",21.318
+389,social,Universal,"['Terminology Control', 'Style Register', 'Modality and Attitude']","[{""start"":65,""end"":75,""text"":""The Office"",""labels"":[""need context""]},{""start"":92,""end"":101,""text"":""Anchorman"",""labels"":[""need context""]},{""start"":149,""end"":153,""text"":""meme"",""labels"":[""need context""]},{""start"":124,""end"":143,""text"":""one-line references"",""labels"":[""need context""]}]",37.379
+390,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":12,""end"":28,""text"":""these references"",""labels"":[""need context""]}]",17.505
+391,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,11.824
+392,social,Local,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":84,""end"":98,""text"":""oversaturation"",""labels"":[""need context""]},{""start"":55,""end"":57,""text"":""it"",""labels"":[""need context""]}]",34.729
+393,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,10.102
+394,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,16.519
+395,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,10.896
+396,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":40,""end"":55,""text"":""these positions"",""labels"":[""need context""]}]",10.012
+397,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,12.492
+398,social,Sentence-level,"['Terminology Control', 'Style Register', 'Logical Connectivity']",,19.228
+399,social,Local,"['Style Register', 'Participant Focus', 'Modality and Attitude']",,19.103
+400,social,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":8,""end"":17,""text"":""Inclusion"",""labels"":[""need context""]}]",13.325
+401,social,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":16,""end"":25,""text"":""inclusion"",""labels"":[""need context""]}]",30.805
+402,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":0,""end"":12,""text"":""what default"",""labels"":[""need context""]}]",27.214
+403,social,Sentence-level,"['Information Density', 'Reference Consistency', 'Modality and Attitude']",,13.414
+404,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,7.564
+405,social,Sentence-level,"['Information Density', 'Style Register', 'Relational Address']",,11.564
+406,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,19.077
+407,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,24.954
+408,social,Local,"['Idea Development', 'Logical Connectivity', 'Modality and Attitude']",,24.836
+409,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,5.718
+410,social,Extended,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":21,""end"":29,""text"":""Big Tech"",""labels"":[""need context""]}]",15.642
+411,social,Local,"['Idea Development', 'Style Register', 'Reference Consistency']",,14.892
+412,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,8.675
+413,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,3.221
+414,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,8.788
+415,social,Universal,"['Terminology Control', 'Style Register', 'Logical Connectivity']","[{""start"":7,""end"":9,""text"":""FB"",""labels"":[""need context""]},{""start"":23,""end"":27,""text"":""Meta"",""labels"":[""need context""]},{""start"":32,""end"":41,""text"":""Pinterest"",""labels"":[""need context""]},{""start"":88,""end"":96,""text"":""WhatsApp"",""labels"":[""need context""]}]",12.214
+416,social,Extended,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":42,""end"":58,""text"":""Google Analytics"",""labels"":[""need context""]}]",25.713
+417,social,Universal,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":43,""end"":46,""text"":""CRM"",""labels"":[""need context""]},{""start"":58,""end"":62,""text"":""GDPR"",""labels"":[""need context""]}]",17.067
+418,social,Universal,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":17,""end"":19,""text"":""MX"",""labels"":[""need context""]},{""start"":23,""end"":29,""text"":""Proton"",""labels"":[""need context""]},{""start"":48,""end"":51,""text"":""SPF"",""labels"":[""need context""]},{""start"":53,""end"":57,""text"":""DKIM"",""labels"":[""need context""]},{""start"":62,""end"":67,""text"":""DMARC"",""labels"":[""need context""]}]",11.594
+419,social,Extended,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":66,""end"":72,""text"":""thread"",""labels"":[""need context""]}]",17.843
+420,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,9.815
+421,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,6.748
+422,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,7.105
+423,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,4.837
+424,social,Universal,"['Terminology Control', 'Style Register', 'Logical Connectivity']","[{""start"":107,""end"":123,""text"":""Google Analytics"",""labels"":[""need context""]},{""start"":165,""end"":171,""text"":""Signal"",""labels"":[""need context""]}]",14.68
+425,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,6.339
+426,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,8.09
+427,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,8.905
+428,social,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,12.77
+429,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,14.447
+430,social,Extended,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":0,""end"":6,""text"":""Signal"",""labels"":[""need context""]}]",10.453
+431,social,Universal,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":85,""end"":92,""text"":""Element"",""labels"":[""need context""]},{""start"":99,""end"":104,""text"":""JITSI"",""labels"":[""need context""]}]",28.748
+432,social,Extended,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":13,""end"":19,""text"":""Signal"",""labels"":[""need context""]}]",11.413
+433,social,Universal,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":24,""end"":28,""text"":""E2EE"",""labels"":[""need context""]}]",11.88
+434,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,5.779
+435,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,3.675
+436,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,8.944
+437,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":19,""end"":24,""text"":""those"",""labels"":[""need context""]}]",7.049
+438,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,8.541
+439,social,Universal,"['Terminology Control', 'Style Register', 'Logical Connectivity']","[{""start"":14,""end"":23,""text"":""Nextcloud"",""labels"":[""need context""]}]",21.44
+440,social,Universal,"['Terminology Control', 'Style Register', 'Logical Connectivity']","[{""start"":107,""end"":124,""text"":""Too Hot to Handle"",""labels"":[""need context""]}]",17.217
+441,social,Universal,"['Idea Development', 'Terminology Control', 'Style Register']","[{""start"":45,""end"":54,""text"":""One Drive"",""labels"":[""need context""]}]",17.329
+442,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,8.936
+443,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,8.791
+444,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,10.518
+445,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,5.583
+446,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,5.064
+447,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,7.184
+448,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,7.789
+449,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":9,""end"":22,""text"":""the good shit"",""labels"":[""need context""]}]",7.103
+450,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,5.121
+451,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":19,""end"":21,""text"":""it"",""labels"":[""need context""]}]",9.738
+452,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,13.84
+453,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,12.168
+454,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,6.807
+455,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,6.394
+456,social,Local,"['Style Register', 'Modality and Attitude', 'Relational Address']",,6.978
+457,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,2.602
+458,social,Sentence-level,"['Idea Development', 'Style Register', 'Reference Consistency']",,21.574
+459,social,Sentence-level,"['Terminology Control', 'Logical Connectivity', 'Modality and Attitude']",,37.905
+460,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,5.063
+461,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,6.574
+462,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,11.985
+463,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Logical Connectivity']",,24.561
+464,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,4.037
+465,social,Sentence-level,"['Idea Development', 'Style Register', 'Reference Consistency']",,13.16
+466,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":10,""end"":18,""text"":""tailwind"",""labels"":[""need context""]}]",15.138
+467,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":20,""end"":23,""text"":""css"",""labels"":[""need context""]}]",9.075
+468,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,5.03
+469,social,Extended,"['Terminology Control', 'Style Register', 'Logical Connectivity']","[{""start"":46,""end"":54,""text"":""tailwind"",""labels"":[""need context""]}]",21.676
+470,social,Extended,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":40,""end"":43,""text"":""css"",""labels"":[""need context""]},{""start"":27,""end"":32,""text"":""class"",""labels"":[""need context""]}]",15.242
+471,social,Extended,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":18,""end"":25,""text"":""library"",""labels"":[""need context""]},{""start"":30,""end"":32,""text"":""it"",""labels"":[""need context""]}]",13.197
+472,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,7.831
+473,social,Extended,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":22,""end"":29,""text"":""classes"",""labels"":[""need context""]},{""start"":56,""end"":65,""text"":""libraries"",""labels"":[""need context""]}]",13.669
+474,social,Local,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":23,""end"":30,""text"":""padding"",""labels"":[""need context""]}]",15.957
+475,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,10.074
+476,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":14,""end"":23,""text"":""Bootstrap"",""labels"":[""need context""]}]",8.208
+477,social,Extended,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":8,""end"":17,""text"":""Bootstrap"",""labels"":[""need context""]},{""start"":45,""end"":53,""text"":""tailwind"",""labels"":[""need context""]}]",18.883
+478,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,8.886
+479,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Logical Connectivity']",,1626.207
+480,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,7.916
+481,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,18.48
+482,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,5.327
+483,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,5.967
+484,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,12.625
+485,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,7.173
+486,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,4.662
+487,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":29,""end"":34,""text"":""niche"",""labels"":[""need context""]}]",15.322
+488,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,10.576
+489,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,10.02
+490,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,8.277
+491,social,Extended,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":0,""end"":5,""text"":""Sweep"",""labels"":[""need context""]}]",10.792000000000002
+492,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,13.941
+493,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,7.064
+494,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,5.185
+495,social,Local,"['Information Density', 'Terminology Control', 'Style Register']",,17.047
+496,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,9.192
+497,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,7.395
+498,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,26.199
+499,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,13.159
+500,social,Local,"['Style Register', 'Participant Focus', 'Relational Address']",,9.322
+501,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,7.512
+502,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,6.101
+503,social,Sentence-level,"['Terminology Control', 'Style Register', 'Logical Connectivity']",,25.579
+504,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,15.575
+505,social,Sentence-level,"['Terminology Control', 'Style Register', 'Participant Focus']",,28.777
+506,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,9.189
+507,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,6.757
+508,social,Universal,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":26,""end"":33,""text"":""Thing 1"",""labels"":[""need context""]},{""start"":39,""end"":47,""text"":""Heathrow"",""labels"":[""need context""]}]",25.309
+509,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,26.318
+510,social,Local,"['Style Register', 'Participant Focus', 'Relational Address']",,10.438
+511,social,Local,"['Style Register', 'Participant Focus', 'Relational Address']",,8.647
+512,social,Universal,"['Terminology Control', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":21,""end"":45,""text"":""kneadatite (green stuff)"",""labels"":[""need context""]}]",28.814
+513,social,Universal,"['Terminology Control', 'Style Register', 'Participant Focus']","[{""start"":49,""end"":52,""text"":""M&M"",""labels"":[""need context""]}]",19.253
+514,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']",,5.102
+515,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']",,5.823
+516,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,5.369
+517,literary,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,10.656
+518,literary,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":12,""end"":14,""text"":""he"",""labels"":[""need context""]}]",14.043
+519,literary,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,15.236
+520,literary,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,6.487
+521,literary,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":1,""end"":13,""text"":""My own fligh"",""labels"":[""need context""]}]",14.901
+522,literary,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,8.847
+523,literary,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,9.621
+524,literary,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":0,""end"":15,""text"":""That being said"",""labels"":[""need context""]}]",12.098
+525,literary,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,9.355
+526,literary,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":5,""end"":8,""text"":""you"",""labels"":[""need context""]},{""start"":22,""end"":24,""text"":""us"",""labels"":[""need context""]}]",17.916
+527,literary,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,6.815
+528,literary,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,10.463
+529,literary,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":0,""end"":2,""text"":""We"",""labels"":[""need context""]},{""start"":13,""end"":40,""text"":""our big, strong, fighty guy"",""labels"":[""need context""]}]",17.298
+530,literary,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":7,""end"":9,""text"":""he"",""labels"":[""need context""]},{""start"":26,""end"":28,""text"":""us"",""labels"":[""need context""]}]",10.268
+531,literary,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":1,""end"":6,""text"":""He'll"",""labels"":[""need context""]}]",12.154
+532,literary,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,5.722
+533,literary,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,5.67
+534,literary,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,6.128
+535,literary,Local,"['Idea Development', 'Style Register', 'Reference Consistency']","[{""start"":11,""end"":13,""text"":""he"",""labels"":[""need context""]}]",11.03
+536,news,Extended,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":0,""end"":4,""text"":""Siso"",""labels"":[""need context""]}]",26.421
+537,news,Sentence-level,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']",,11.012
+538,news,Universal,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']",,17.513
+539,news,Sentence-level,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']",,10.736
+540,news,Universal,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":48,""end"":77,""text"":""Venezuela, Trinidad and Miami"",""labels"":[""need context""]},{""start"":22,""end"":28,""text"":""Madrid"",""labels"":[""need context""]}]",19.708
+541,news,Sentence-level,"['Information Density', 'Reference Consistency', 'Modality and Attitude']",,16.791
+542,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,10.363
+543,news,Sentence-level,"['Information Density', 'Participant Focus', 'Modality and Attitude']",,10.015
+544,news,Universal,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":125,""end"":143,""text"":""Los Angeles County"",""labels"":[""need context""]}]",24.445
+545,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,21.552
+546,news,Sentence-level,"['Idea Development', 'Reference Consistency', 'Relational Address']",,27.039
+547,news,Extended,"['Reference Consistency', 'Modality and Attitude', 'Relational Address']",,17.945
+548,news,Sentence-level,"['Idea Development', 'Modality and Attitude', 'Relational Address']",,16.012
+549,news,Extended,"['Information Density', 'Terminology Control', 'Reference Consistency']","[{""start"":51,""end"":61,""text"":""Sydney CBD"",""labels"":[""need context""]}]",19.35
+550,news,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":29,""end"":37,""text"":""the same"",""labels"":[""need context""]}]",38.373
+551,news,Sentence-level,"['Information Density', 'Logical Connectivity', 'Modality and Attitude']",,14.137
+552,news,Sentence-level,"['Idea Development', 'Logical Connectivity', 'Modality and Attitude']",,18.194
+553,news,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,8.126
+554,news,Sentence-level,"['Information Density', 'Terminology Control', 'Logical Connectivity']",,20.245
+555,news,Extended,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":37,""end"":40,""text"":""NSW"",""labels"":[""need context""]}]",19.344
+556,news,Sentence-level,"['Idea Development', 'Logical Connectivity', 'Modality and Attitude']",,10.892
+557,news,Sentence-level,"['Idea Development', 'Logical Connectivity', 'Modality and Attitude']",,10.367
+558,news,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,13.376
+559,news,Extended,"['Terminology Control', 'Reference Consistency', 'Participant Focus']","[{""start"":26,""end"":29,""text"":""NSW"",""labels"":[""need context""]}]",14.303
+560,news,Universal,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":1,""end"":2,""text"":""e"",""labels"":[""need context""]}]",16.236
+561,news,Local,"['Idea Development', 'Style Register', 'Modality and Attitude']",,22.86
+562,news,Universal,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']","[{""start"":11,""end"":35,""text"":""the World Economic Forum"",""labels"":[""need context""]}]",18.25
+563,news,Extended,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":5,""end"":18,""text"":""he World Bank"",""labels"":[""need context""]}]",28.103
+564,news,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":0,""end"":39,""text"":""The international financial institution"",""labels"":[""need context""]}]",12.676
+565,news,Local,"['Information Density', 'Reference Consistency', 'Modality and Attitude']",,11.064
+566,news,Local,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":200,""end"":208,""text"":""the plan"",""labels"":[""need context""]}]",22.927
+567,news,Sentence-level,"['Style Register', 'Reference Consistency', 'Logical Connectivity']",,10.222
+568,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,12.221
+569,news,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,37.086
+570,news,Sentence-level,"['Idea Development', 'Participant Focus', 'Modality and Attitude']",,16.415
+571,news,Sentence-level,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']",,13.49
+572,news,Sentence-level,"['Information Density', 'Terminology Control', 'Modality and Attitude']",,10.227
+573,news,Universal,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":72,""end"":81,""text"":""Maparasha"",""labels"":[""need context""]},{""start"":55,""end"":60,""text"":""Masai"",""labels"":[""need context""]}]",21.189
+574,news,Universal,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":0,""end"":2,""text"":""He"",""labels"":[""need context""]},{""start"":8,""end"":16,""text"":""Le Monde"",""labels"":[""need context""]}]",19.694
+575,news,Extended,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,16.079
+576,news,Sentence-level,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']",,30.489
+577,news,Local,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":0,""end"":3,""text"":""Its"",""labels"":[""need context""]}]",14.299
+578,news,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,16.088
+579,news,Sentence-level,"['Information Density', 'Participant Focus', 'Modality and Attitude']",,16.54
+580,news,Local,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']",,13.88
+581,news,Sentence-level,"['Terminology Control', 'Participant Focus', 'Modality and Attitude']",,15.197
+582,news,Sentence-level,"['Terminology Control', 'Style Register', 'Modality and Attitude']",,13.941
+583,news,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,8.602
+584,news,Extended,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":0,""end"":14,""text"":""The World Bank"",""labels"":[""need context""]},{""start"":31,""end"":43,""text"":""that message"",""labels"":[""need context""]}]",23.378
+585,news,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":4,""end"":13,""text"":""Betta Edu"",""labels"":[""need context""]}]",29.612
+586,news,Universal,"['Information Density', 'Terminology Control', 'Participant Focus']","[{""start"":244,""end"":256,""text"":""N585 million"",""labels"":[""need context""]}]",21.318
+587,news,Universal,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":201,""end"":214,""text"":"" N585 million"",""labels"":[""need context""]},{""start"":0,""end"":12,""text"":""The minister"",""labels"":[""need context""]}]",27.006
+588,news,Extended,"['Terminology Control', 'Reference Consistency', 'Logical Connectivity']","[{""start"":47,""end"":50,""text"":""Edu"",""labels"":[""need context""]}]",23.263
+589,news,Sentence-level,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']",,26.952
+590,news,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,20.014
+591,news,Sentence-level,"['Information Density', 'Terminology Control', 'Style Register']",,19.483
+592,news,Local,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']",,13.785
+593,news,Universal,"['Style Register', 'Reference Consistency', 'Modality and Attitude']","[{""start"":21,""end"":36,""text"":""Ventures Africa"",""labels"":[""need context""]}]",23.106
+594,news,Local,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":7,""end"":19,""text"":""her ministry"",""labels"":[""need context""]},{""start"":43,""end"":46,""text"":""her"",""labels"":[""need context""]}]",16.552
+595,news,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,26.842
+596,news,Sentence-level,"['Terminology Control', 'Logical Connectivity', 'Modality and Attitude']",,11.712
+597,news,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":0,""end"":2,""text"":""He"",""labels"":[""need context""]},{""start"":21,""end"":24,""text"":""she"",""labels"":[""need context""]}]",12.334
+598,news,Universal,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":5,""end"":12,""text"":""Twitter"",""labels"":[""need context""]},{""start"":104,""end"":117,""text"":""the ministry "",""labels"":[""need context""]}]",22.62
+599,news,Universal,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":41,""end"":48,""text"":""Twitter"",""labels"":[""need context""]},{""start"":164,""end"":187,""text"":""the suspended minister."",""labels"":[""need context""]}]",20.75
+600,news,Local,"['Information Density', 'Reference Consistency', 'Modality and Attitude']","[{""start"":18,""end"":30,""text"":""the minister"",""labels"":[""need context""]},{""start"":0,""end"":3,""text"":""She"",""labels"":[""need context""]}]",16.572
+601,news,Local,"['Information Density', 'Idea Development', 'Reference Consistency']","[{""start"":9,""end"":32,""text"":""these expert arguments,"",""labels"":[""need context""]}]",15.712
+602,news,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,14.315
+603,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,22.3
+604,social,Universal,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":56,""end"":85,""text"":""Warhammer, Gundam, Battletech"",""labels"":[""need context""]}]",21.108
+605,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":9,""end"":29,""text"":"" these other sources"",""labels"":[""need context""]}]",12.444
+606,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,5.624
+607,social,Local,"['Style Register', 'Participant Focus', 'Relational Address']",,9.759
+608,,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,28.936
+609,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":8,""end"":17,""text"":"" every se"",""labels"":[""need context""]}]",71.325
+610,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":134,""end"":140,""text"":""GI Joe"",""labels"":[""need context""]},{""start"":150,""end"":163,""text"":""Traansformers"",""labels"":[""need context""]}]",14.654
+611,social,Extended,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":33,""end"":74,""text"":"" Berry's 3D printed pacifist robot family"",""labels"":[""need context""]}]",13.186
+612,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']",,14.07
+613,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,15.432
+614,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,5.509
+615,social,Local,"['Style Register', 'Logical Connectivity', 'Relational Address']",,12.348
+616,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":27,""end"":31,""text"":""this"",""labels"":[""need context""]},{""start"":73,""end"":87,""text"":""the second one"",""labels"":[""need context""]}]",19.598
+617,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,7.261
+618,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']",,5.785
+619,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":35,""end"":37,""text"":""it"",""labels"":[""need context""]}]",9.266
+620,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":0,""end"":13,""text"":""The other one"",""labels"":[""need context""]}]",9.36
+621,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":32,""end"":51,""text"":""the new nesting box"",""labels"":[""need context""]}]",39.704
+622,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,13.987
+623,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,5.27
+624,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,3.862
+625,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,6.781
+626,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":27,""end"":32,""text"":""ESP32"",""labels"":[""need context""]},{""start"":81,""end"":87,""text"":""IR-LED"",""labels"":[""need context""]},{""start"":102,""end"":115,""text"":""Raspberry Pi "",""labels"":[""need context""]}]",20.032
+627,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,7.087
+628,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,9.919
+629,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,8.378
+630,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,9.701
+631,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,13.792
+632,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,9.666
+633,social,Local,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":14,""end"":21,""text"":""feature"",""labels"":[""need context""]}]",11.765
+634,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,7.406
+635,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,39.242
+636,social,Local,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":73,""end"":75,""text"":""it"",""labels"":[""need context""]}]",17.643
+637,social,Local,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":4,""end"":16,""text"":""the new ones"",""labels"":[""need context""]}]",19.044
+638,social,Universal,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":61,""end"":75,""text"":""TP-Link cpe210"",""labels"":[""need context""]}]",16.473
+639,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":17,""end"":21,""text"":""that"",""labels"":[""need context""]}]",14.302
+640,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Participant Focus']",,22.302
+641,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Logical Connectivity']",,13.033
+642,social,Local,"['Style Register', 'Reference Consistency', 'Modality and Attitude']","[{""start"":0,""end"":2,""text"":""It"",""labels"":[""need context""]}]",19.418
+643,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Modality and Attitude']",,8.064
+644,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Modality and Attitude']",,19.129
+645,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,5.97
+646,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,5.477
+647,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Modality and Attitude']",,16.004
+648,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Modality and Attitude']",,18.681
+649,social,Local,"['Idea Development', 'Style Register', 'Reference Consistency']",,15.37
+650,social,Local,"['Idea Development', 'Style Register', 'Participant Focus']",,16.662
+651,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,12.343
+652,social,Extended,"['Terminology Control', 'Reference Consistency', 'Logical Connectivity']","[{""start"":25,""end"":32,""text"":""Digikey"",""labels"":[""need context""]},{""start"":82,""end"":85,""text"":""PCB"",""labels"":[""need context""]}]",67.779
+653,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,5.819
+654,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":7,""end"":11,""text"":""it's"",""labels"":[""need context""]}]",8.6
+655,social,Sentence-level,"['Idea Development', 'Terminology Control', 'Style Register']",,24.231
+656,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":46,""end"":59,""text"":""it does(n't)."",""labels"":[""need context""]}]",20.65
+657,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,7.121
+658,social,Universal,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":85,""end"":88,""text"":""GND"",""labels"":[""need context""]}]",15.077
+659,social,Local,"['Terminology Control', 'Style Register', 'Reference Consistency']",,16.314
+660,social,Extended,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":4,""end"":7,""text"":""ESP"",""labels"":[""need context""]}]",13.25
+661,social,Local,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":19,""end"":22,""text"":""it'"",""labels"":[""need context""]}]",15.109
+662,social,Universal,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":46,""end"":54,""text"":""Tasmotas"",""labels"":[""need context""]}]",15.085
+663,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,6.681
+664,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":14,""end"":26,""text"":""a bigger one"",""labels"":[""need context""]}]",10.701
+665,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":24,""end"":32,""text"":""Workshop"",""labels"":[""need context""]}]",8.304
+666,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,4.851
+667,social,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":63,""end"":65,""text"":""it"",""labels"":[""need context""]},{""start"":122,""end"":124,""text"":""it"",""labels"":[""need context""]}]",32.028
+668,social,Local,"['Idea Development', 'Style Register', 'Reference Consistency']","[{""start"":60,""end"":62,""text"":""it"",""labels"":[""need context""]}]",15.981
+669,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":13,""end"":19,""text"":""Amazon"",""labels"":[""need context""]}]",15.369
+670,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Logical Connectivity']",,9.235
+671,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,13.237
+672,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":0,""end"":4,""text"":""They"",""labels"":[""need context""]},{""start"":28,""end"":36,""text"":"" the one"",""labels"":[""need context""]}]",12.491
+673,social,Local,"['Terminology Control', 'Reference Consistency', 'Modality and Attitude']","[{""start"":5,""end"":39,""text"":""the old and the new Listing titles"",""labels"":[""need context""]}]",17.436
+674,social,Sentence-level,"['Idea Development', 'Style Register', 'Reference Consistency']",,9.414
+675,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,7.849
+676,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Modality and Attitude']",,17.274
+677,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":40,""end"":44,""text"":""that"",""labels"":[""need context""]}]",10.162
+678,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,4.607
+679,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Logical Connectivity']",,29.115
+680,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,3.717
+681,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":20,""end"":33,""text"":""the new panel"",""labels"":[""need context""]}]",57.702
+682,social,Local,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":0,""end"":2,""text"":""It"",""labels"":[""need context""]}]",12.505
+683,social,Universal,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":23,""end"":27,""text"":""ping"",""labels"":[""need context""]},{""start"":72,""end"":74,""text"":""it"",""labels"":[""need context""]}]",24.479
+684,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,7.804
+685,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,5.365
+686,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":40,""end"":44,""text"":""them"",""labels"":[""need context""]},{""start"":3,""end"":7,""text"":""they"",""labels"":[""need context""]}]",15.841
+687,social,Universal,"['Terminology Control', 'Logical Connectivity', 'Relational Address']","[{""start"":37,""end"":50,""text"":""Finsbury Park"",""labels"":[""need context""]}]",25.772
+688,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,5.154
+689,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":5,""end"":14,""text"":""Matt Gray"",""labels"":[""need context""]}]",8.796
+690,social,Universal,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":22,""end"":33,""text"":""Sainsbury’s"",""labels"":[""need context""]},{""start"":37,""end"":57,""text"":""Haringey Green Lanes"",""labels"":[""need context""]},{""start"":0,""end"":7,""text"":""They’re"",""labels"":[""need context""]}]",21.665
+691,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":34,""end"":38,""text"":""them"",""labels"":[""need context""]}]",11.644
+692,social,Local,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":46,""end"":50,""text"":"" it."",""labels"":[""need context""]}]",15.216
+693,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":3,""end"":10,""text"":""they’re"",""labels"":[""need context""]},{""start"":59,""end"":63,""text"":""them"",""labels"":[""need context""]}]",12.728
+694,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,5.088
+695,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":24,""end"":28,""text"":""them"",""labels"":[""need context""]}]",5.203
+696,social,Local,"['Idea Development', 'Style Register', 'Reference Consistency']","[{""start"":29,""end"":52,""text"":""that random supermarket"",""labels"":[""need context""]}]",22.286
+697,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":26,""end"":30,""text"":""them"",""labels"":[""need context""]}]",8.956
+698,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,5.851
+699,social,Universal,"['Terminology Control', 'Style Register', 'Participant Focus']","[{""start"":8,""end"":25,""text"":""Superbooth Berlin"",""labels"":[""need context""]}]",14.474
+700,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,7.993
+701,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,4.801
+702,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,13.384
+703,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":16,""end"":20,""text"":""them"",""labels"":[""need context""]}]",10.061
+704,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,10.49
+705,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":0,""end"":7,""text"":""They'll"",""labels"":[""need context""]}]",9.189
+706,social,Local,"['Idea Development', 'Style Register', 'Reference Consistency']","[{""start"":61,""end"":65,""text"":""them"",""labels"":[""need context""]}]",12.458
+707,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,6.798
+708,,Sentence-level,"['Information Density', 'Style Register', 'Relational Address']",,14.093
+709,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":0,""end"":11,""text"":""Another one"",""labels"":[""need context""]}]",6.556
+710,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,23.633
+711,social,Universal,"['Terminology Control', 'Style Register', 'Reference Consistency']","[{""start"":17,""end"":29,""text"":""Hugging Face"",""labels"":[""need context""]},{""start"":33,""end"":42,""text"":""The Stack"",""labels"":[""need context""]},{""start"":82,""end"":87,""text"":""repos"",""labels"":[""need context""]}]",15.186
+712,social,Extended,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":28,""end"":32,""text"":""GDPR"",""labels"":[""need context""]}]",13.695
+713,social,Sentence-level,"['Terminology Control', 'Style Register', 'Modality and Attitude']",,21.085
+714,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,21.773
+715,social,Sentence-level,"['Terminology Control', 'Style Register', 'Reference Consistency']",,8.931
+716,social,Sentence-level,"['Terminology Control', 'Style Register', 'Logical Connectivity']","[{""start"":74,""end"":81,""text"":""my-blog"",""labels"":[""need context""]}]",35.27
+717,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,16.392
+718,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,11.006
+719,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']",,22.05
+720,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Logical Connectivity']",,19.809
+721,social,Sentence-level,"['Idea Development', 'Style Register', 'Reference Consistency']",,15.884
+722,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,10.684
+723,social,Local,"['Idea Development', 'Terminology Control', 'Style Register']","[{""start"":3,""end"":18,""text"":""new impressions"",""labels"":[""need context""]}]",26.995
+724,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":0,""end"":6,""text"":""Stumpy"",""labels"":[""need context""]}]",11.493
+725,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,8.395
+726,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":58,""end"":75,""text"":""Stumpy’s crowning"",""labels"":[""need context""]}]",15.576
+727,social,Local,"['Idea Development', 'Style Register', 'Relational Address']",,23.461
+728,social,Local,"['Idea Development', 'Style Register', 'Participant Focus']",,12.169
+729,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,8.491
+730,social,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,9.924
+731,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,12.496
+732,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,8.269
+733,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,7.879
+734,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":9,""end"":16,""text"":""they’re"",""labels"":[""need context""]}]",10.777
+735,social,Sentence-level,"['Idea Development', 'Terminology Control', 'Style Register']",,15.437
+736,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,7.028
+737,social,Local,"['Terminology Control', 'Style Register', 'Relational Address']",,16.078
+738,social,Sentence-level,"['Style Register', 'Participant Focus', 'Relational Address']",,14.864
+739,social,Extended,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":0,""end"":3,""text"":""lfg"",""labels"":[""need context""]},{""start"":4,""end"":9,""text"":""$sqqq"",""labels"":[""need context""]},{""start"":14,""end"":19,""text"":""$tslq"",""labels"":[""need context""]}]",16.709
+740,social,Local,"['Terminology Control', 'Style Register', 'Relational Address']",,10.613
+741,social,Extended,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":11,""end"":15,""text"":""$big"",""labels"":[""need context""]}]",11.47
+742,social,Local,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":0,""end"":5,""text"":""$sqqq"",""labels"":[""need context""]}]",15.104
+743,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":33,""end"":42,""text"":""elon musk"",""labels"":[""need context""]},{""start"":57,""end"":62,""text"":""$tslq"",""labels"":[""need context""]}]",12.265
+744,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":16,""end"":23,""text"":""twitter"",""labels"":[""need context""]}]",19.843
+745,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']",,17.687
+746,social,Local,"['Style Register', 'Reference Consistency', 'Participant Focus']",,6.69
+747,social,Extended,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":6,""end"":24,""text"":""Trimming The Herbs"",""labels"":[""need context""]}]",45.031
+748,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,8.663
+749,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,11.349
+750,social,Local,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":31,""end"":33,""text"":""it"",""labels"":[""need context""]}]",12.129
+751,social,Extended,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":97,""end"":109,""text"":""Mario stuff,"",""labels"":[""need context""]},{""start"":142,""end"":160,""text"":""Trimming the Herbs"",""labels"":[""need context""]}]",23.794
+752,social,Extended,"['Terminology Control', 'Style Register', 'Logical Connectivity']","[{""start"":48,""end"":51,""text"":""TAS"",""labels"":[""need context""]}]",12.755
+753,social,Extended,"['Terminology Control', 'Style Register', 'Logical Connectivity']",,12.863
+754,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":4,""end"":23,""text"":""Super Mario Maker 1"",""labels"":[""need context""]}]",8.136
+755,social,Universal,"['Terminology Control', 'Style Register', 'Relational Address']","[{""start"":56,""end"":74,""text"":""Trimming the Herbs"",""labels"":[""need context""]}]",16.547
+756,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,14.584
+757,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,8.485
+758,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,5.987
+759,social,Sentence-level,"['Terminology Control', 'Style Register', 'Participant Focus']",,13.788
+760,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,5.079
+761,social,Local,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":14,""end"":18,""text"":""they"",""labels"":[""need context""]}]",11.604
+762,,Extended,"['Style Register', 'Reference Consistency', 'Logical Connectivity']","[{""start"":26,""end"":51,""text"":""Terry Prachet boots thing"",""labels"":[""need context""]}]",29.825
+763,social,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,3.807
+764,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,7.307
+765,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":0,""end"":2,""text"":""It"",""labels"":[""need context""]}]",10.984
+766,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,14.736
+767,social,Sentence-level,"['Style Register', 'Logical Connectivity', 'Relational Address']",,9.272
+768,social,Sentence-level,"['Idea Development', 'Style Register', 'Relational Address']",,6.186
+769,social,Sentence-level,"['Terminology Control', 'Style Register', 'Relational Address']",,8.049
+770,social,Sentence-level,"['Idea Development', 'Terminology Control', 'Style Register']",,23.235
+771,social,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":0,""end"":2,""text"":""It"",""labels"":[""need context""]}]",23.284
+772,literary,Local,"['Style Register', 'Participant Focus', 'Relational Address']",,8.573
+773,literary,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":0,""end"":12,""text"":""The creature"",""labels"":[""need context""]}]",32.731
+774,literary,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,14.549
+775,literary,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":16,""end"":20,""text"":""THEM"",""labels"":[""need context""]}]",7.384
+776,literary,Local,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":9,""end"":14,""text"":""THEIR"",""labels"":[""need context""]}]",7.246
+777,literary,Sentence-level,"['Style Register', 'Modality and Attitude', 'Relational Address']",,8.558
+778,literary,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,15.401
+779,literary,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":0,""end"":14,""text"":""The dark beast"",""labels"":[""need context""]}]",17.842
+780,literary,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":0,""end"":12,""text"":""The creature"",""labels"":[""need context""]}]",14.939
+781,literary,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":0,""end"":2,""text"":""It"",""labels"":[""need context""]}]",9.481
+782,literary,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":22,""end"":34,""text"":""the creature"",""labels"":[""need context""]}]",12.971
+783,literary,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":37,""end"":48,""text"":""the monster"",""labels"":[""need context""]}]",12.303
+784,literary,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,8.364
+785,literary,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,12.868
+786,literary,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,10.16
+787,literary,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,16.226
+788,literary,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,16.605
+789,literary,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":20,""end"":23,""text"":""she"",""labels"":[""need context""]},{""start"":0,""end"":3,""text"":""She"",""labels"":[""need context""]}]",13.303
+790,literary,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,10.148
+791,literary,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,9.362
+792,literary,Sentence-level,"['Information Density', 'Participant Focus', 'Modality and Attitude']",,17.236
+793,literary,Extended,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":0,""end"":19,""text"":""And in said shadows"",""labels"":[""need context""]}]",16.212
+794,literary,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,37.81
+795,literary,Local,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']","[{""start"":0,""end"":3,""text"":""She"",""labels"":[""need context""]},{""start"":61,""end"":64,""text"":""her"",""labels"":[""need context""]}]",12.1
+796,literary,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,19.278
+797,literary,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":60,""end"":72,""text"":""the monster,"",""labels"":[""need context""]},{""start"":83,""end"":85,""text"":""it"",""labels"":[""need context""]}]",15.058
+798,literary,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":39,""end"":50,""text"":""the monster"",""labels"":[""need context""]}]",10.11
+799,literary,Sentence-level,"['Idea Development', 'Reference Consistency', 'Modality and Attitude']",,17.609
+800,literary,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":19,""end"":32,""text"":""the creature "",""labels"":[""need context""]}]",8.413
+801,literary,Extended,"['Style Register', 'Reference Consistency', 'Relational Address']","[{""start"":62,""end"":77,""text"":""Thanto kat'olon"",""labels"":[""need context""]}]",30.57
+802,literary,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":70,""end"":78,""text"":""his body"",""labels"":[""need context""]},{""start"":0,""end"":8,""text"":""His eyes"",""labels"":[""need context""]}]",23.654
+803,literary,Local,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']","[{""start"":12,""end"":14,""text"":""he"",""labels"":[""need context""]}]",13.055
+804,literary,Sentence-level,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']",,9.971
+805,literary,Local,"['Reference Consistency', 'Participant Focus', 'Modality and Attitude']","[{""start"":0,""end"":4,""text"":""They"",""labels"":[""need context""]}]",20.129
+806,literary,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,6.17
+807,literary,Sentence-level,"['Reference Consistency', 'Logical Connectivity', 'Modality and Attitude']",,6.417
+808,literary,Sentence-level,"['Style Register', 'Reference Consistency', 'Relational Address']",,4.68

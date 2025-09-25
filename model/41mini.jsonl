@@ -1,0 +1,809 @@
+{"idx":0,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Participant Focus","Modality and Attitude"]}
+{"idx":1,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":2,"context":"Sentence-level knowledge","skill":["Participant Focus","Modality and Attitude","Relational Address"]}
+{"idx":3,"context":"Universal contextual knowledge","skill":["Participant Focus","Reference Consistency","Logical Connectivity"]}
+{"idx":4,"context":"Universal contextual knowledge","skill":["Participant Focus","Logical Connectivity","Reference Consistency"]}
+{"idx":5,"context":"Local contextual knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":6,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Terminology Control","Reference Consistency"]}
+{"idx":7,"context":"Extended contextual knowledge","skill":["Participant Focus","Logical Connectivity","Terminology Control"]}
+{"idx":8,"context":"Extended contextual knowledge","skill":["Terminology Control","Reference Consistency","Idea Development"]}
+{"idx":9,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":10,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Reference Consistency","Relational Address"]}
+{"idx":11,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Information Density"]}
+{"idx":12,"context":"Sentence-level knowledge","skill":["Participant Focus","Modality and Attitude","Stylistic Register"]}
+{"idx":13,"context":"Universal contextual knowledge","skill":["Participant Focus","Stylistic Register","Modality and Attitude"]}
+{"idx":14,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Modality and Attitude","Reference Consistency"]}
+{"idx":15,"context":"Global contextual knowledge","skill":["Participant Focus","Information Density","Idea Development"]}
+{"idx":16,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Terminology Control","Reference Consistency"]}
+{"idx":17,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":18,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Reference Consistency","Terminology Control"]}
+{"idx":19,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Idea Development","Relational Address"]}
+{"idx":20,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":21,"context":"Sentence-level knowledge","skill":["Terminology Control","Participant Focus","Logical Connectivity"]}
+{"idx":22,"context":"Universal contextual knowledge","skill":["Participant Focus","Logical Connectivity","Terminology Control"]}
+{"idx":23,"context":"Sentence-level knowledge","skill":["Information Density","Reference Consistency","Participant Focus"]}
+{"idx":24,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Information Density","Modality and Attitude"]}
+{"idx":25,"context":"Local contextual knowledge","skill":["Terminology Control","Participant Focus","Logical Connectivity"]}
+{"idx":26,"context":"Sentence-level knowledge","skill":["Participant Focus","Modality and Attitude","Information Density"]}
+{"idx":27,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Modality and Attitude","Relational Address"]}
+{"idx":28,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Modality and Attitude","Reference Consistency"]}
+{"idx":29,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":30,"context":"Sentence-level knowledge","skill":["Participant Focus","Logical Connectivity","Terminology Control"]}
+{"idx":31,"context":"Sentence-level knowledge","skill":["Participant Focus","Information Density","Terminology Control"]}
+{"idx":32,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Logical Connectivity","Idea Development"]}
+{"idx":33,"context":"Sentence-level knowledge","skill":["Participant Focus","Reference Consistency","Relational Address"]}
+{"idx":34,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Terminology Control","Reference Consistency"]}
+{"idx":35,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Stylistic Register"]}
+{"idx":36,"context":"Universal contextual knowledge","skill":["Participant Focus","Reference Consistency","Terminology Control"]}
+{"idx":37,"context":"Universal contextual knowledge","skill":["Participant Focus","Stylistic Register","Reference Consistency"]}
+{"idx":38,"context":"Extended contextual knowledge","skill":["Participant Focus","Logical Connectivity","Stylistic Register"]}
+{"idx":39,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Modality and Attitude"]}
+{"idx":40,"context":"Local contextual knowledge","skill":["Participant Focus","Logical Connectivity","Modality and Attitude"]}
+{"idx":41,"context":"Extended contextual knowledge","skill":["Participant Focus","Modality and Attitude","Logical Connectivity"]}
+{"idx":42,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Modality and Attitude","Reference Consistency"]}
+{"idx":43,"context":"Extended contextual knowledge","skill":["Participant Focus","Logical Connectivity","Stylistic Register"]}
+{"idx":44,"context":"Extended contextual knowledge","skill":["Modality and Attitude","Logical Connectivity","Reference Consistency"]}
+{"idx":45,"context":"Local contextual knowledge","skill":["Participant Focus","Reference Consistency","Logical Connectivity"]}
+{"idx":46,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":47,"context":"Universal contextual knowledge","skill":["Participant Focus","Modality and Attitude","Relational Address"]}
+{"idx":48,"context":"Universal contextual knowledge","skill":["Reference Consistency","Logical Connectivity","Terminology Control"]}
+{"idx":49,"context":"Universal contextual knowledge","skill":["Terminology Control","Participant Focus","Logical Connectivity"]}
+{"idx":50,"context":"Sentence-level knowledge","skill":["Participant Focus","Reference Consistency","Modality and Attitude"]}
+{"idx":51,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Participant Focus","Logical Connectivity"]}
+{"idx":52,"context":"Universal contextual knowledge","skill":["Terminology Control","Stylistic Register","Logical Connectivity"]}
+{"idx":53,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Idea Development"]}
+{"idx":54,"context":"Extended contextual knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":55,"context":"Sentence-level knowledge","skill":["Information Density","Terminology Control","Reference Consistency"]}
+{"idx":56,"context":"Universal contextual knowledge","skill":["Participant Focus","Reference Consistency","Terminology Control"]}
+{"idx":57,"context":"Universal contextual knowledge","skill":["Terminology Control","Reference Consistency","Logical Connectivity"]}
+{"idx":58,"context":"Sentence-level knowledge","skill":["Participant Focus","Relational Address","Logical Connectivity"]}
+{"idx":59,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Logical Connectivity","Participant Focus"]}
+{"idx":60,"context":"Universal contextual knowledge","skill":["Terminology Control","Participant Focus","Logical Connectivity"]}
+{"idx":61,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":62,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Modality and Attitude","Stylistic Register"]}
+{"idx":63,"context":"Universal contextual knowledge","skill":["Participant Focus","Modality and Attitude","Logical Connectivity"]}
+{"idx":64,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Participant Focus","Terminology Control"]}
+{"idx":65,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":66,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Reference Consistency","Terminology Control"]}
+{"idx":67,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":68,"context":"Universal contextual knowledge","skill":["Participant Focus","Logical Connectivity","Terminology Control"]}
+{"idx":69,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":70,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":71,"context":"Sentence-level knowledge","skill":["Participant Focus","Reference Consistency","Stylistic Register"]}
+{"idx":72,"context":"Sentence-level knowledge","skill":["Participant Focus","Relational Address","Logical Connectivity"]}
+{"idx":73,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Terminology Control","Reference Consistency"]}
+{"idx":74,"context":"Local contextual knowledge","skill":["Logical Connectivity","Participant Focus","Modality and Attitude"]}
+{"idx":75,"context":"Sentence-level knowledge","skill":["Participant Focus","Idea Development","Modality and Attitude"]}
+{"idx":76,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Stylistic Register"]}
+{"idx":77,"context":"Sentence-level knowledge","skill":["Participant Focus","Modality and Attitude","Relational Address"]}
+{"idx":78,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":79,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":80,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":81,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Modality and Attitude"]}
+{"idx":82,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Logical Connectivity"]}
+{"idx":83,"context":"Sentence-level knowledge","skill":["Stylistic Register","Information Density","Reference Consistency"]}
+{"idx":84,"context":"Extended contextual knowledge","skill":["Stylistic Register","Reference Consistency","Relational Address"]}
+{"idx":85,"context":"Extended contextual knowledge","skill":["Participant Focus","Reference Consistency","Relational Address"]}
+{"idx":86,"context":"Sentence-level knowledge","skill":["Reference Consistency","Stylistic Register","Participant Focus"]}
+{"idx":87,"context":"Global contextual knowledge","skill":["Relational Address","Reference Consistency","Logical Connectivity"]}
+{"idx":88,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":89,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":90,"context":"Global contextual knowledge","skill":["Modality and Attitude","Information Density","Reference Consistency"]}
+{"idx":91,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":92,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Logical Connectivity"]}
+{"idx":93,"context":"Sentence-level knowledge","skill":["Reference Consistency","Modality and Attitude","Relational Address"]}
+{"idx":94,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Reference Consistency","Relational Address"]}
+{"idx":95,"context":"Sentence-level knowledge","skill":["Participant Focus","Logical Connectivity","Stylistic Register"]}
+{"idx":96,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":97,"context":"Extended contextual knowledge","skill":["Relational Address","Reference Consistency","Logical Connectivity"]}
+{"idx":98,"context":"Sentence-level knowledge","skill":["Reference Consistency","Modality and Attitude","Stylistic Register"]}
+{"idx":99,"context":"Local contextual knowledge","skill":["Relational Address","Modality and Attitude","Reference Consistency"]}
+{"idx":100,"context":"Extended contextual knowledge","skill":["Modality and Attitude","Stylistic Register","Relational Address"]}
+{"idx":101,"context":"Local contextual knowledge","skill":["Reference Consistency","Stylistic Register","Modality and Attitude"]}
+{"idx":102,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":103,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":104,"context":"Extended contextual knowledge","skill":["Participant Focus","Relational Address","Stylistic Register"]}
+{"idx":105,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":106,"context":"Local contextual knowledge","skill":["Relational Address","Participant Focus","Stylistic Register"]}
+{"idx":107,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":108,"context":"Extended contextual knowledge","skill":["Stylistic Register","Reference Consistency","Relational Address"]}
+{"idx":109,"context":"Universal contextual knowledge","skill":["Relational Address","Reference Consistency","Information Density"]}
+{"idx":110,"context":"Universal contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":111,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Modality and Attitude"]}
+{"idx":112,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Participant Focus"]}
+{"idx":113,"context":"Universal contextual knowledge","skill":["Relational Address","Modality and Attitude","Reference Consistency"]}
+{"idx":114,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":115,"context":"Universal contextual knowledge","skill":["Reference Consistency","Logical Connectivity","Terminology Control"]}
+{"idx":116,"context":"Extended contextual knowledge","skill":["Participant Focus","Reference Consistency","Relational Address"]}
+{"idx":117,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":118,"context":"Local contextual knowledge","skill":["Stylistic Register","Relational Address","Reference Consistency"]}
+{"idx":119,"context":"Universal contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":120,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":121,"context":"Extended contextual knowledge","skill":["Stylistic Register","Relational Address","Reference Consistency"]}
+{"idx":122,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Relational Address"]}
+{"idx":123,"context":"Universal contextual knowledge","skill":["Stylistic Register","Reference Consistency","Relational Address"]}
+{"idx":124,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Participant Focus"]}
+{"idx":125,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":126,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Participant Focus"]}
+{"idx":127,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":128,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Relational Address","Stylistic Register"]}
+{"idx":129,"context":"Universal contextual knowledge","skill":["Relational Address","Modality and Attitude","Reference Consistency"]}
+{"idx":130,"context":"Universal contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":131,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":132,"context":"Local contextual knowledge","skill":["Stylistic Register","Relational Address","Reference Consistency"]}
+{"idx":133,"context":"Universal contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":134,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Reference Consistency"]}
+{"idx":135,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":136,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":137,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Logical Connectivity","Reference Consistency"]}
+{"idx":138,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Participant Focus","Stylistic Register"]}
+{"idx":139,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Reference Consistency"]}
+{"idx":140,"context":"Universal contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":141,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":142,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":143,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":144,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":145,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Logical Connectivity"]}
+{"idx":146,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Reference Consistency","Stylistic Register"]}
+{"idx":147,"context":"Sentence-level knowledge","skill":["Stylistic Register","Logical Connectivity","Reference Consistency"]}
+{"idx":148,"context":"Sentence-level knowledge","skill":["Stylistic Register","Relational Address","Modality and Attitude"]}
+{"idx":149,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Modality and Attitude","Stylistic Register"]}
+{"idx":150,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":151,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Reference Consistency"]}
+{"idx":152,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":153,"context":"Sentence-level knowledge","skill":["Reference Consistency","Modality and Attitude","Relational Address"]}
+{"idx":154,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":155,"context":"Sentence-level knowledge","skill":["Relational Address","Participant Focus","Terminology Control"]}
+{"idx":156,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Relational Address","Stylistic Register"]}
+{"idx":157,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":158,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Relational Address"]}
+{"idx":159,"context":"Local contextual knowledge","skill":["Reference Consistency","Relational Address","Stylistic Register"]}
+{"idx":160,"context":"Local contextual knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":161,"context":"Sentence-level knowledge","skill":["Relational Address","Terminology Control","Reference Consistency"]}
+{"idx":162,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":163,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":164,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Logical Connectivity"]}
+{"idx":165,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Relational Address","Reference Consistency"]}
+{"idx":166,"context":"Local contextual knowledge","skill":["Relational Address","Logical Connectivity","Modality and Attitude"]}
+{"idx":167,"context":"Sentence-level knowledge","skill":["Participant Focus","Reference Consistency","Stylistic Register"]}
+{"idx":168,"context":"Local contextual knowledge","skill":["Relational Address","Modality and Attitude","Reference Consistency"]}
+{"idx":169,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":170,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":171,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Stylistic Register","Relational Address"]}
+{"idx":172,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Idea Development"]}
+{"idx":173,"context":"Universal contextual knowledge","skill":["Modality and Attitude","Relational Address","Participant Focus"]}
+{"idx":174,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":175,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Logical Connectivity"]}
+{"idx":176,"context":"Sentence-level knowledge","skill":["Stylistic Register","Participant Focus","Modality and Attitude"]}
+{"idx":177,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":178,"context":"Universal contextual knowledge","skill":["Relational Address","Modality and Attitude","Participant Focus"]}
+{"idx":179,"context":"Local contextual knowledge","skill":["Stylistic Register","Modality and Attitude","Reference Consistency"]}
+{"idx":180,"context":"Universal contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":181,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":182,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":183,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":184,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Relational Address"]}
+{"idx":185,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":186,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":187,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Logical Connectivity","Relational Address"]}
+{"idx":188,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":189,"context":"Sentence-level knowledge","skill":["Stylistic Register","Relational Address","Modality and Attitude"]}
+{"idx":190,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":191,"context":"Sentence-level knowledge","skill":["Relational Address","Participant Focus","Stylistic Register"]}
+{"idx":192,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":193,"context":"Sentence-level knowledge","skill":["Relational Address","Information Density","Stylistic Register"]}
+{"idx":194,"context":"Sentence-level knowledge","skill":["Stylistic Register","Relational Address","Logical Connectivity"]}
+{"idx":195,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":196,"context":"Universal contextual knowledge","skill":["Reference Consistency","Relational Address","Stylistic Register"]}
+{"idx":197,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":198,"context":"Sentence-level knowledge","skill":["Relational Address","Participant Focus","Stylistic Register"]}
+{"idx":199,"context":"Sentence-level knowledge","skill":["Relational Address","Information Density","Reference Consistency"]}
+{"idx":200,"context":"Extended contextual knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":201,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Relational Address"]}
+{"idx":202,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":203,"context":"Extended contextual knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":204,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":205,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Participant Focus"]}
+{"idx":206,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":207,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Reference Consistency"]}
+{"idx":208,"context":"Sentence-level knowledge","skill":["Reference Consistency","Terminology Control","Participant Focus"]}
+{"idx":209,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":210,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Reference Consistency"]}
+{"idx":211,"context":"Sentence-level knowledge","skill":["Relational Address","Participant Focus","Terminology Control"]}
+{"idx":212,"context":"Sentence-level knowledge","skill":["Relational Address","Information Density","Stylistic Register"]}
+{"idx":213,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":214,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Modality and Attitude"]}
+{"idx":215,"context":"Sentence-level knowledge","skill":["Stylistic Register","Participant Focus","Terminology Control"]}
+{"idx":216,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":217,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Modality and Attitude"]}
+{"idx":218,"context":"Extended contextual knowledge","skill":["Relational Address","Modality and Attitude","Logical Connectivity"]}
+{"idx":219,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":220,"context":"Extended contextual knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":221,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":222,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":223,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":224,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Relational Address"]}
+{"idx":225,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":226,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":227,"context":"Sentence-level knowledge","skill":["Reference Consistency","Participant Focus","Logical Connectivity"]}
+{"idx":228,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":229,"context":"Sentence-level knowledge","skill":["Relational Address","Participant Focus","Stylistic Register"]}
+{"idx":230,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Logical Connectivity"]}
+{"idx":231,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":232,"context":"Sentence-level knowledge","skill":["Reference Consistency","Stylistic Register","Logical Connectivity"]}
+{"idx":233,"context":"Sentence-level knowledge","skill":["Relational Address","Terminology Control","Reference Consistency"]}
+{"idx":234,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Relational Address"]}
+{"idx":235,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Participant Focus"]}
+{"idx":236,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":237,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":238,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Participant Focus"]}
+{"idx":239,"context":"Local contextual knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":240,"context":"Sentence-level knowledge","skill":["Stylistic Register","Relational Address","Reference Consistency"]}
+{"idx":241,"context":"Sentence-level knowledge","skill":["Information Density","Relational Address","Stylistic Register"]}
+{"idx":242,"context":"Sentence-level knowledge","skill":["Idea Development","Modality and Attitude","Information Density"]}
+{"idx":243,"context":"Sentence-level knowledge","skill":["Stylistic Register","Information Density","Reference Consistency"]}
+{"idx":244,"context":"Global contextual knowledge","skill":["Participant Focus","Information Density","Modality and Attitude"]}
+{"idx":245,"context":"Extended contextual knowledge","skill":["Participant Focus","Information Density","Modality and Attitude"]}
+{"idx":246,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Reference Consistency","Terminology Control"]}
+{"idx":247,"context":"Global contextual knowledge","skill":["Information Density","Idea Development","Participant Focus"]}
+{"idx":248,"context":"Extended contextual knowledge","skill":["Information Density","Reference Consistency","Stylistic Register"]}
+{"idx":249,"context":"Extended contextual knowledge","skill":["Relational Address","Information Density","Logical Connectivity"]}
+{"idx":250,"context":"Sentence-level knowledge","skill":["Idea Development","Modality and Attitude","Stylistic Register"]}
+{"idx":251,"context":"Extended contextual knowledge","skill":["Modality and Attitude","Reference Consistency","Stylistic Register"]}
+{"idx":252,"context":"Local contextual knowledge","skill":["Reference Consistency","Stylistic Register","Relational Address"]}
+{"idx":253,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Reference Consistency","Stylistic Register"]}
+{"idx":254,"context":"Local contextual knowledge","skill":["Stylistic Register","Information Density","Reference Consistency"]}
+{"idx":255,"context":"Local contextual knowledge","skill":["Stylistic Register","Reference Consistency","Modality and Attitude"]}
+{"idx":256,"context":"Sentence-level knowledge","skill":["Information Density","Stylistic Register","Reference Consistency"]}
+{"idx":257,"context":"Sentence-level knowledge","skill":["Participant Focus","Information Density","Relational Address"]}
+{"idx":258,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Information Density","Relational Address"]}
+{"idx":259,"context":"Global contextual knowledge","skill":["Participant Focus","Information Density","Relational Address"]}
+{"idx":260,"context":"Sentence-level knowledge","skill":["Participant Focus","Information Density","Stylistic Register"]}
+{"idx":261,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Modality and Attitude","Relational Address"]}
+{"idx":262,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Reference Consistency","Terminology Control"]}
+{"idx":263,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Terminology Control","Reference Consistency"]}
+{"idx":264,"context":"Universal contextual knowledge","skill":["Terminology Control","Reference Consistency","Logical Connectivity"]}
+{"idx":265,"context":"Local contextual knowledge","skill":["Terminology Control","Reference Consistency","Stylistic Register"]}
+{"idx":266,"context":"Sentence-level knowledge","skill":["Participant Focus","Logical Connectivity","Terminology Control"]}
+{"idx":267,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Terminology Control","Idea Development"]}
+{"idx":268,"context":"Global contextual knowledge","skill":["Logical Connectivity","Terminology Control","Idea Development"]}
+{"idx":269,"context":"Universal contextual knowledge","skill":["Participant Focus","Logical Connectivity","Reference Consistency"]}
+{"idx":270,"context":"Universal contextual knowledge","skill":["Participant Focus","Relational Address","Idea Development"]}
+{"idx":271,"context":"Universal contextual knowledge","skill":["Terminology Control","Reference Consistency","Stylistic Register"]}
+{"idx":272,"context":"Universal contextual knowledge","skill":["Participant Focus","Reference Consistency","Terminology Control"]}
+{"idx":273,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":274,"context":"Local contextual knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":275,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":276,"context":"Extended contextual knowledge","skill":["Participant Focus","Terminology Control","Modality and Attitude"]}
+{"idx":277,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":278,"context":"Local contextual knowledge","skill":["Logical Connectivity","Reference Consistency","Terminology Control"]}
+{"idx":279,"context":"Extended contextual knowledge","skill":["Participant Focus","Logical Connectivity","Terminology Control"]}
+{"idx":280,"context":"Sentence-level knowledge","skill":["Participant Focus","Modality and Attitude","Terminology Control"]}
+{"idx":281,"context":"Extended contextual knowledge","skill":["Terminology Control","Reference Consistency","Logical Connectivity"]}
+{"idx":282,"context":"Universal contextual knowledge","skill":["Terminology Control","Participant Focus","Modality and Attitude"]}
+{"idx":283,"context":"Universal contextual knowledge","skill":["Terminology Control","Logical Connectivity","Relational Address"]}
+{"idx":284,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Relational Address","Participant Focus"]}
+{"idx":285,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":286,"context":"Universal contextual knowledge","skill":["Participant Focus","Reference Consistency","Terminology Control"]}
+{"idx":287,"context":"Local contextual knowledge","skill":["Logical Connectivity","Reference Consistency","Terminology Control"]}
+{"idx":288,"context":"Local contextual knowledge","skill":["Terminology Control","Reference Consistency","Relational Address"]}
+{"idx":289,"context":"Local contextual knowledge","skill":["Participant Focus","Stylistic Register","Terminology Control"]}
+{"idx":290,"context":"Universal contextual knowledge","skill":["Terminology Control","Participant Focus","Stylistic Register"]}
+{"idx":291,"context":"Sentence-level knowledge","skill":["Participant Focus","Modality and Attitude","Terminology Control"]}
+{"idx":292,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Terminology Control","Relational Address"]}
+{"idx":293,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Terminology Control","Reference Consistency"]}
+{"idx":294,"context":"Universal contextual knowledge","skill":["Modality and Attitude","Terminology Control","Reference Consistency"]}
+{"idx":295,"context":"Extended contextual knowledge","skill":["Participant Focus","Reference Consistency","Modality and Attitude"]}
+{"idx":296,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":297,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":298,"context":"Extended contextual knowledge","skill":["Participant Focus","Logical Connectivity","Terminology Control"]}
+{"idx":299,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Terminology Control","Reference Consistency"]}
+{"idx":300,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Information Density"]}
+{"idx":301,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Relational Address","Reference Consistency"]}
+{"idx":302,"context":"Universal contextual knowledge","skill":["Participant Focus","Logical Connectivity","Terminology Control"]}
+{"idx":303,"context":"Local contextual knowledge","skill":["Reference Consistency","Stylistic Register","Participant Focus"]}
+{"idx":304,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Reference Consistency","Modality and Attitude"]}
+{"idx":305,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":306,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Terminology Control","Reference Consistency"]}
+{"idx":307,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Idea Development"]}
+{"idx":308,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":309,"context":"Local contextual knowledge","skill":["Modality and Attitude","Reference Consistency","Logical Connectivity"]}
+{"idx":310,"context":"Sentence-level knowledge","skill":["Participant Focus","Logical Connectivity","Terminology Control"]}
+{"idx":311,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Terminology Control","Reference Consistency"]}
+{"idx":312,"context":"Local contextual knowledge","skill":["Terminology Control","Participant Focus","Logical Connectivity"]}
+{"idx":313,"context":"Local contextual knowledge","skill":["Participant Focus","Stylistic Register","Reference Consistency"]}
+{"idx":314,"context":"Extended contextual knowledge","skill":["Participant Focus","Terminology Control","Stylistic Register"]}
+{"idx":315,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Reference Consistency","Stylistic Register"]}
+{"idx":316,"context":"Local contextual knowledge","skill":["Logical Connectivity","Reference Consistency","Participant Focus"]}
+{"idx":317,"context":"Sentence-level knowledge","skill":["Participant Focus","Modality and Attitude","Logical Connectivity"]}
+{"idx":318,"context":"Extended contextual knowledge","skill":["Reference Consistency","Logical Connectivity","Terminology Control"]}
+{"idx":319,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Idea Development","Participant Focus"]}
+{"idx":320,"context":"Sentence-level knowledge","skill":["Participant Focus","Modality and Attitude","Stylistic Register"]}
+{"idx":321,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Terminology Control","Participant Focus"]}
+{"idx":322,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":323,"context":"Sentence-level knowledge","skill":["Terminology Control","Idea Development","Reference Consistency"]}
+{"idx":324,"context":"Universal contextual knowledge","skill":["Modality and Attitude","Reference Consistency","Logical Connectivity"]}
+{"idx":325,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Reference Consistency","Stylistic Register"]}
+{"idx":326,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":327,"context":"Local contextual knowledge","skill":["Reference Consistency","Terminology Control","Logical Connectivity"]}
+{"idx":328,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Terminology Control","Reference Consistency"]}
+{"idx":329,"context":"Sentence-level knowledge","skill":["Participant Focus","Information Density","Logical Connectivity"]}
+{"idx":330,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Information Density"]}
+{"idx":331,"context":"Universal contextual knowledge","skill":["Terminology Control","Reference Consistency","Logical Connectivity"]}
+{"idx":332,"context":"Local contextual knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":333,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":334,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Stylistic Register"]}
+{"idx":335,"context":"Sentence-level knowledge","skill":["Terminology Control","Participant Focus","Reference Consistency"]}
+{"idx":336,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":337,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Information Density"]}
+{"idx":338,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":339,"context":"Sentence-level knowledge","skill":["Terminology Control","Participant Focus","Reference Consistency"]}
+{"idx":340,"context":"Extended contextual knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":341,"context":"Sentence-level knowledge","skill":["Participant Focus","Relational Address","Logical Connectivity"]}
+{"idx":342,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Modality and Attitude","Participant Focus"]}
+{"idx":343,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Reference Consistency","Relational Address"]}
+{"idx":344,"context":"Local contextual knowledge","skill":["Reference Consistency","Terminology Control","Logical Connectivity"]}
+{"idx":345,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Participant Focus","Terminology Control"]}
+{"idx":346,"context":"Sentence-level knowledge","skill":["Participant Focus","Reference Consistency","Terminology Control"]}
+{"idx":347,"context":"Universal contextual knowledge","skill":["Stylistic Register","Information Density","Relational Address"]}
+{"idx":348,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Relational Address"]}
+{"idx":349,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":350,"context":"Local contextual knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":351,"context":"Extended contextual knowledge","skill":["Participant Focus","Logical Connectivity","Relational Address"]}
+{"idx":352,"context":"Local contextual knowledge","skill":["Modality and Attitude","Stylistic Register","Relational Address"]}
+{"idx":353,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Reference Consistency"]}
+{"idx":354,"context":"Local contextual knowledge","skill":["Modality and Attitude","Relational Address","Reference Consistency"]}
+{"idx":355,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":356,"context":"Universal contextual knowledge","skill":["Modality and Attitude","Relational Address","Stylistic Register"]}
+{"idx":357,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Reference Consistency"]}
+{"idx":358,"context":"Local contextual knowledge","skill":["Relational Address","Reference Consistency","Participant Focus"]}
+{"idx":359,"context":"Universal contextual knowledge","skill":["Stylistic Register","Relational Address","Reference Consistency"]}
+{"idx":360,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Modality and Attitude"]}
+{"idx":361,"context":"Extended contextual knowledge","skill":["Participant Focus","Relational Address","Terminology Control"]}
+{"idx":362,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Participant Focus"]}
+{"idx":363,"context":"Extended contextual knowledge","skill":["Stylistic Register","Reference Consistency","Relational Address"]}
+{"idx":364,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":365,"context":"Extended contextual knowledge","skill":["Participant Focus","Reference Consistency","Relational Address"]}
+{"idx":366,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":367,"context":"Sentence-level knowledge","skill":["Reference Consistency","Relational Address","Modality and Attitude"]}
+{"idx":368,"context":"Extended contextual knowledge","skill":["Stylistic Register","Relational Address","Reference Consistency"]}
+{"idx":369,"context":"Universal contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":370,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Logical Connectivity"]}
+{"idx":371,"context":"Extended contextual knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":372,"context":"Extended contextual knowledge","skill":["Relational Address","Modality and Attitude","Reference Consistency"]}
+{"idx":373,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":374,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Stylistic Register"]}
+{"idx":375,"context":"Universal contextual knowledge","skill":["Reference Consistency","Relational Address","Stylistic Register"]}
+{"idx":376,"context":"Extended contextual knowledge","skill":["Participant Focus","Relational Address","Stylistic Register"]}
+{"idx":377,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Relational Address","Logical Connectivity"]}
+{"idx":378,"context":"Global contextual knowledge","skill":["Relational Address","Participant Focus","Reference Consistency"]}
+{"idx":379,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Participant Focus"]}
+{"idx":380,"context":"Local contextual knowledge","skill":["Participant Focus","Relational Address","Stylistic Register"]}
+{"idx":381,"context":"Universal contextual knowledge","skill":["Reference Consistency","Relational Address","Modality and Attitude"]}
+{"idx":382,"context":"Extended contextual knowledge","skill":["Relational Address","Participant Focus","Stylistic Register"]}
+{"idx":383,"context":"Extended contextual knowledge","skill":["Relational Address","Logical Connectivity","Reference Consistency"]}
+{"idx":384,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Reference Consistency","Relational Address"]}
+{"idx":385,"context":"Extended contextual knowledge","skill":["Reference Consistency","Relational Address","Stylistic Register"]}
+{"idx":386,"context":"Extended contextual knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":387,"context":"Extended contextual knowledge","skill":["Reference Consistency","Relational Address","Logical Connectivity"]}
+{"idx":388,"context":"Extended contextual knowledge","skill":["Relational Address","Participant Focus","Reference Consistency"]}
+{"idx":389,"context":"Universal contextual knowledge","skill":["Reference Consistency","Relational Address","Stylistic Register"]}
+{"idx":390,"context":"Extended contextual knowledge","skill":["Reference Consistency","Relational Address","Logical Connectivity"]}
+{"idx":391,"context":"Universal contextual knowledge","skill":["Relational Address","Reference Consistency","Logical Connectivity"]}
+{"idx":392,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Modality and Attitude","Reference Consistency"]}
+{"idx":393,"context":"Universal contextual knowledge","skill":["Participant Focus","Relational Address","Modality and Attitude"]}
+{"idx":394,"context":"Extended contextual knowledge","skill":["Stylistic Register","Reference Consistency","Relational Address"]}
+{"idx":395,"context":"Extended contextual knowledge","skill":["Stylistic Register","Modality and Attitude","Relational Address"]}
+{"idx":396,"context":"Universal contextual knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":397,"context":"Extended contextual knowledge","skill":["Relational Address","Participant Focus","Stylistic Register"]}
+{"idx":398,"context":"Universal contextual knowledge","skill":["Relational Address","Modality and Attitude","Logical Connectivity"]}
+{"idx":399,"context":"Extended contextual knowledge","skill":["Stylistic Register","Modality and Attitude","Reference Consistency"]}
+{"idx":400,"context":"Sentence-level knowledge","skill":["Participant Focus","Logical Connectivity","Modality and Attitude"]}
+{"idx":401,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":402,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Modality and Attitude"]}
+{"idx":403,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Reference Consistency","Modality and Attitude"]}
+{"idx":404,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":405,"context":"Extended contextual knowledge","skill":["Modality and Attitude","Relational Address","Stylistic Register"]}
+{"idx":406,"context":"Universal contextual knowledge","skill":["Participant Focus","Relational Address","Modality and Attitude"]}
+{"idx":407,"context":"Sentence-level knowledge","skill":["Stylistic Register","Logical Connectivity","Reference Consistency"]}
+{"idx":408,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Participant Focus"]}
+{"idx":409,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Participant Focus"]}
+{"idx":410,"context":"Universal contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":411,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":412,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":413,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":414,"context":"Sentence-level knowledge","skill":["Stylistic Register","Relational Address","Reference Consistency"]}
+{"idx":415,"context":"Universal contextual knowledge","skill":["Participant Focus","Relational Address","Stylistic Register"]}
+{"idx":416,"context":"Sentence-level knowledge","skill":["Reference Consistency","Relational Address","Stylistic Register"]}
+{"idx":417,"context":"Universal contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":418,"context":"Universal contextual knowledge","skill":["Reference Consistency","Terminology Control","Participant Focus"]}
+{"idx":419,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":420,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Relational Address"]}
+{"idx":421,"context":"Local contextual knowledge","skill":["Stylistic Register","Modality and Attitude","Logical Connectivity"]}
+{"idx":422,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":423,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":424,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":425,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":426,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Reference Consistency"]}
+{"idx":427,"context":"Local contextual knowledge","skill":["Relational Address","Reference Consistency","Participant Focus"]}
+{"idx":428,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":429,"context":"Local contextual knowledge","skill":["Reference Consistency","Modality and Attitude","Stylistic Register"]}
+{"idx":430,"context":"Universal contextual knowledge","skill":["Relational Address","Stylistic Register","Logical Connectivity"]}
+{"idx":431,"context":"Sentence-level knowledge","skill":["Terminology Control","Reference Consistency","Stylistic Register"]}
+{"idx":432,"context":"Local contextual knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":433,"context":"Sentence-level knowledge","skill":["Relational Address","Terminology Control","Reference Consistency"]}
+{"idx":434,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":435,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":436,"context":"Local contextual knowledge","skill":["Stylistic Register","Relational Address","Reference Consistency"]}
+{"idx":437,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":438,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":439,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":440,"context":"Extended contextual knowledge","skill":["Stylistic Register","Reference Consistency","Modality and Attitude"]}
+{"idx":441,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":442,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":443,"context":"Local contextual knowledge","skill":["Logical Connectivity","Relational Address","Reference Consistency"]}
+{"idx":444,"context":"Extended contextual knowledge","skill":["Relational Address","Modality and Attitude","Participant Focus"]}
+{"idx":445,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":446,"context":"Local contextual knowledge","skill":["Modality and Attitude","Relational Address","Stylistic Register"]}
+{"idx":447,"context":"Local contextual knowledge","skill":["Logical Connectivity","Modality and Attitude","Stylistic Register"]}
+{"idx":448,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":449,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":450,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":451,"context":"Local contextual knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":452,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Idea Development"]}
+{"idx":453,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Relational Address"]}
+{"idx":454,"context":"Local contextual knowledge","skill":["Relational Address","Reference Consistency","Modality and Attitude"]}
+{"idx":455,"context":"Sentence-level knowledge","skill":["Reference Consistency","Relational Address","Stylistic Register"]}
+{"idx":456,"context":"Extended contextual knowledge","skill":["Relational Address","Modality and Attitude","Logical Connectivity"]}
+{"idx":457,"context":"Local contextual knowledge","skill":["Participant Focus","Reference Consistency","Stylistic Register"]}
+{"idx":458,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":459,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":460,"context":"Local contextual knowledge","skill":["Stylistic Register","Reference Consistency","Relational Address"]}
+{"idx":461,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Relational Address","Stylistic Register"]}
+{"idx":462,"context":"Sentence-level knowledge","skill":["Reference Consistency","Stylistic Register","Participant Focus"]}
+{"idx":463,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":464,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":465,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":466,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Relational Address"]}
+{"idx":467,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Relational Address","Reference Consistency"]}
+{"idx":468,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Relational Address"]}
+{"idx":469,"context":"Extended contextual knowledge","skill":["Stylistic Register","Reference Consistency","Modality and Attitude"]}
+{"idx":470,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":471,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":472,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":473,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":474,"context":"Sentence-level knowledge","skill":["Stylistic Register","Relational Address","Modality and Attitude"]}
+{"idx":475,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":476,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Participant Focus"]}
+{"idx":477,"context":"Extended contextual knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":478,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":479,"context":"Extended contextual knowledge","skill":["Reference Consistency","Logical Connectivity","Stylistic Register"]}
+{"idx":480,"context":"Sentence-level knowledge","skill":["Reference Consistency","Relational Address","Stylistic Register"]}
+{"idx":481,"context":"Sentence-level knowledge","skill":["Terminology Control","Logical Connectivity","Stylistic Register"]}
+{"idx":482,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":483,"context":"Sentence-level knowledge","skill":["Relational Address","Idea Development","Reference Consistency"]}
+{"idx":484,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Logical Connectivity"]}
+{"idx":485,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":486,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Idea Development"]}
+{"idx":487,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":488,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":489,"context":"Sentence-level knowledge","skill":["Reference Consistency","Stylistic Register","Logical Connectivity"]}
+{"idx":490,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Participant Focus"]}
+{"idx":491,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":492,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":493,"context":"Local contextual knowledge","skill":["Participant Focus","Stylistic Register","Reference Consistency"]}
+{"idx":494,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":495,"context":"Sentence-level knowledge","skill":["Participant Focus","Relational Address","Stylistic Register"]}
+{"idx":496,"context":"Sentence-level knowledge","skill":["Stylistic Register","Participant Focus","Logical Connectivity"]}
+{"idx":497,"context":"Sentence-level knowledge","skill":["Stylistic Register","Relational Address","Reference Consistency"]}
+{"idx":498,"context":"Extended contextual knowledge","skill":["Relational Address","Modality and Attitude","Participant Focus"]}
+{"idx":499,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Reference Consistency"]}
+{"idx":500,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":501,"context":"Sentence-level knowledge","skill":["Participant Focus","Stylistic Register","Reference Consistency"]}
+{"idx":502,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":503,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Reference Consistency","Stylistic Register"]}
+{"idx":504,"context":"Extended contextual knowledge","skill":["Relational Address","Participant Focus","Stylistic Register"]}
+{"idx":505,"context":"Sentence-level knowledge","skill":["Reference Consistency","Stylistic Register","Participant Focus"]}
+{"idx":506,"context":"Sentence-level knowledge","skill":["Reference Consistency","Terminology Control","Participant Focus"]}
+{"idx":507,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":508,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Reference Consistency","Stylistic Register"]}
+{"idx":509,"context":"Sentence-level knowledge","skill":["Reference Consistency","Logical Connectivity","Participant Focus"]}
+{"idx":510,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":511,"context":"Local contextual knowledge","skill":["Participant Focus","Relational Address","Stylistic Register"]}
+{"idx":512,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Logical Connectivity"]}
+{"idx":513,"context":"Sentence-level knowledge","skill":["Participant Focus","Reference Consistency","Information Density"]}
+{"idx":514,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":515,"context":"Local contextual knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":516,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":517,"context":"Global contextual knowledge","skill":["Participant Focus","Information Density","Modality and Attitude"]}
+{"idx":518,"context":"Local contextual knowledge","skill":["Modality and Attitude","Reference Consistency","Information Density"]}
+{"idx":519,"context":"Sentence-level knowledge","skill":["Information Density","Participant Focus","Reference Consistency"]}
+{"idx":520,"context":"Global contextual knowledge","skill":["Participant Focus","Relational Address","Stylistic Register"]}
+{"idx":521,"context":"Extended contextual knowledge","skill":["Reference Consistency","Participant Focus","Relational Address"]}
+{"idx":522,"context":"Local contextual knowledge","skill":["Stylistic Register","Reference Consistency","Modality and Attitude"]}
+{"idx":523,"context":"Global contextual knowledge","skill":["Logical Connectivity","Participant Focus","Modality and Attitude"]}
+{"idx":524,"context":"Extended contextual knowledge","skill":["Stylistic Register","Logical Connectivity","Reference Consistency"]}
+{"idx":525,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Relational Address","Stylistic Register"]}
+{"idx":526,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":527,"context":"Global contextual knowledge","skill":["Participant Focus","Modality and Attitude","Reference Consistency"]}
+{"idx":528,"context":"Extended contextual knowledge","skill":["Reference Consistency","Stylistic Register","Modality and Attitude"]}
+{"idx":529,"context":"Sentence-level knowledge","skill":["Participant Focus","Modality and Attitude","Reference Consistency"]}
+{"idx":530,"context":"Local contextual knowledge","skill":["Reference Consistency","Logical Connectivity","Stylistic Register"]}
+{"idx":531,"context":"Local contextual knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":532,"context":"Local contextual knowledge","skill":["Modality and Attitude","Reference Consistency","Stylistic Register"]}
+{"idx":533,"context":"Local contextual knowledge","skill":["Reference Consistency","Stylistic Register","Logical Connectivity"]}
+{"idx":534,"context":"Local contextual knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":535,"context":"Sentence-level knowledge","skill":["Participant Focus","Modality and Attitude","Reference Consistency"]}
+{"idx":536,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":537,"context":"Local contextual knowledge","skill":["Reference Consistency","Stylistic Register","Terminology Control"]}
+{"idx":538,"context":"Sentence-level knowledge","skill":["Reference Consistency","Stylistic Register","Terminology Control"]}
+{"idx":539,"context":"Sentence-level knowledge","skill":["Participant Focus","Idea Development","Stylistic Register"]}
+{"idx":540,"context":"Sentence-level knowledge","skill":["Participant Focus","Reference Consistency","Idea Development"]}
+{"idx":541,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":542,"context":"Sentence-level knowledge","skill":["Information Density","Participant Focus","Reference Consistency"]}
+{"idx":543,"context":"Sentence-level knowledge","skill":["Participant Focus","Information Density","Terminology Control"]}
+{"idx":544,"context":"Sentence-level knowledge","skill":["Participant Focus","Stylistic Register","Terminology Control"]}
+{"idx":545,"context":"Sentence-level knowledge","skill":["Participant Focus","Idea Development","Stylistic Register"]}
+{"idx":546,"context":"Sentence-level knowledge","skill":["Participant Focus","Logical Connectivity","Reference Consistency"]}
+{"idx":547,"context":"Sentence-level knowledge","skill":["Terminology Control","Reference Consistency","Stylistic Register"]}
+{"idx":548,"context":"Sentence-level knowledge","skill":["Information Density","Terminology Control","Logical Connectivity"]}
+{"idx":549,"context":"Extended contextual knowledge","skill":["Participant Focus","Reference Consistency","Stylistic Register"]}
+{"idx":550,"context":"Local contextual knowledge","skill":["Logical Connectivity","Reference Consistency","Terminology Control"]}
+{"idx":551,"context":"Sentence-level knowledge","skill":["Participant Focus","Idea Development","Logical Connectivity"]}
+{"idx":552,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Stylistic Register","Information Density"]}
+{"idx":553,"context":"Local contextual knowledge","skill":["Modality and Attitude","Participant Focus","Logical Connectivity"]}
+{"idx":554,"context":"Sentence-level knowledge","skill":["Participant Focus","Reference Consistency","Logical Connectivity"]}
+{"idx":555,"context":"Local contextual knowledge","skill":["Logical Connectivity","Modality and Attitude","Terminology Control"]}
+{"idx":556,"context":"Sentence-level knowledge","skill":["Participant Focus","Logical Connectivity","Reference Consistency"]}
+{"idx":557,"context":"Universal contextual knowledge","skill":["Participant Focus","Reference Consistency","Stylistic Register"]}
+{"idx":558,"context":"Sentence-level knowledge","skill":["Information Density","Terminology Control","Logical Connectivity"]}
+{"idx":559,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":560,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":561,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Stylistic Register"]}
+{"idx":562,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Stylistic Register"]}
+{"idx":563,"context":"Local contextual knowledge","skill":["Participant Focus","Modality and Attitude","Terminology Control"]}
+{"idx":564,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":565,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Information Density","Idea Development"]}
+{"idx":566,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Reference Consistency","Terminology Control"]}
+{"idx":567,"context":"Universal contextual knowledge","skill":["Information Density","Reference Consistency","Terminology Control"]}
+{"idx":568,"context":"Universal contextual knowledge","skill":["Terminology Control","Logical Connectivity","Stylistic Register"]}
+{"idx":569,"context":"Sentence-level knowledge","skill":["Participant Focus","Information Density","Logical Connectivity"]}
+{"idx":570,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Participant Focus","Terminology Control"]}
+{"idx":571,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":572,"context":"Universal contextual knowledge","skill":["Terminology Control","Stylistic Register","Logical Connectivity"]}
+{"idx":573,"context":"Universal contextual knowledge","skill":["Terminology Control","Participant Focus","Relational Address"]}
+{"idx":574,"context":"Local contextual knowledge","skill":["Participant Focus","Reference Consistency","Stylistic Register"]}
+{"idx":575,"context":"Sentence-level knowledge","skill":["Participant Focus","Reference Consistency","Stylistic Register"]}
+{"idx":576,"context":"Universal contextual knowledge","skill":["Participant Focus","Reference Consistency","Logical Connectivity"]}
+{"idx":577,"context":"Universal contextual knowledge","skill":["Terminology Control","Participant Focus","Reference Consistency"]}
+{"idx":578,"context":"Sentence-level knowledge","skill":["Participant Focus","Information Density","Logical Connectivity"]}
+{"idx":579,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Reference Consistency","Logical Connectivity"]}
+{"idx":580,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Terminology Control","Logical Connectivity"]}
+{"idx":581,"context":"Universal contextual knowledge","skill":["Participant Focus","Relational Address","Terminology Control"]}
+{"idx":582,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":583,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Reference Consistency","Logical Connectivity"]}
+{"idx":584,"context":"Local contextual knowledge","skill":["Logical Connectivity","Modality and Attitude","Reference Consistency"]}
+{"idx":585,"context":"Universal contextual knowledge","skill":["Modality and Attitude","Information Density","Relational Address"]}
+{"idx":586,"context":"Global contextual knowledge","skill":["Participant Focus","Terminology Control","Relational Address"]}
+{"idx":587,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Relational Address"]}
+{"idx":588,"context":"Extended contextual knowledge","skill":["Terminology Control","Reference Consistency","Participant Focus"]}
+{"idx":589,"context":"Local contextual knowledge","skill":["Participant Focus","Relational Address","Logical Connectivity"]}
+{"idx":590,"context":"Universal contextual knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":591,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Relational Address"]}
+{"idx":592,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Terminology Control","Stylistic Register"]}
+{"idx":593,"context":"Local contextual knowledge","skill":["Participant Focus","Terminology Control","Stylistic Register"]}
+{"idx":594,"context":"Extended contextual knowledge","skill":["Participant Focus","Reference Consistency","Terminology Control"]}
+{"idx":595,"context":"Local contextual knowledge","skill":["Modality and Attitude","Relational Address","Reference Consistency"]}
+{"idx":596,"context":"Sentence-level knowledge","skill":["Terminology Control","Logical Connectivity","Stylistic Register"]}
+{"idx":597,"context":"Local contextual knowledge","skill":["Participant Focus","Modality and Attitude","Logical Connectivity"]}
+{"idx":598,"context":"Sentence-level knowledge","skill":["Participant Focus","Reference Consistency","Logical Connectivity"]}
+{"idx":599,"context":"Local contextual knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":600,"context":"Local contextual knowledge","skill":["Modality and Attitude","Participant Focus","Idea Development"]}
+{"idx":601,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Terminology Control","Logical Connectivity"]}
+{"idx":602,"context":"Extended contextual knowledge","skill":["Participant Focus","Logical Connectivity","Terminology Control"]}
+{"idx":603,"context":"Extended contextual knowledge","skill":["Reference Consistency","Stylistic Register","Relational Address"]}
+{"idx":604,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Modality and Attitude","Stylistic Register"]}
+{"idx":605,"context":"Extended contextual knowledge","skill":["Relational Address","Modality and Attitude","Reference Consistency"]}
+{"idx":606,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":607,"context":"Extended contextual knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":608,"context":"Extended contextual knowledge","skill":["Participant Focus","Modality and Attitude","Reference Consistency"]}
+{"idx":609,"context":"Extended contextual knowledge","skill":["Participant Focus","Stylistic Register","Relational Address"]}
+{"idx":610,"context":"Extended contextual knowledge","skill":["Modality and Attitude","Relational Address","Logical Connectivity"]}
+{"idx":611,"context":"Local contextual knowledge","skill":["Stylistic Register","Reference Consistency","Relational Address"]}
+{"idx":612,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":613,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Participant Focus","Stylistic Register"]}
+{"idx":614,"context":"Universal contextual knowledge","skill":["Participant Focus","Stylistic Register","Relational Address"]}
+{"idx":615,"context":"Local contextual knowledge","skill":["Modality and Attitude","Relational Address","Reference Consistency"]}
+{"idx":616,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":617,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Relational Address"]}
+{"idx":618,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":619,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":620,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Reference Consistency"]}
+{"idx":621,"context":"Sentence-level knowledge","skill":["Reference Consistency","Stylistic Register","Relational Address"]}
+{"idx":622,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":623,"context":"Sentence-level knowledge","skill":["Relational Address","Logical Connectivity","Stylistic Register"]}
+{"idx":624,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":625,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Reference Consistency"]}
+{"idx":626,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Terminology Control"]}
+{"idx":627,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":628,"context":"Local contextual knowledge","skill":["Logical Connectivity","Modality and Attitude","Stylistic Register"]}
+{"idx":629,"context":"Sentence-level knowledge","skill":["Terminology Control","Participant Focus","Reference Consistency"]}
+{"idx":630,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":631,"context":"Sentence-level knowledge","skill":["Participant Focus","Reference Consistency","Relational Address"]}
+{"idx":632,"context":"Local contextual knowledge","skill":["Logical Connectivity","Participant Focus","Reference Consistency"]}
+{"idx":633,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":634,"context":"Sentence-level knowledge","skill":["Stylistic Register","Logical Connectivity","Reference Consistency"]}
+{"idx":635,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Reference Consistency"]}
+{"idx":636,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":637,"context":"Local contextual knowledge","skill":["Stylistic Register","Reference Consistency","Logical Connectivity"]}
+{"idx":638,"context":"Sentence-level knowledge","skill":["Reference Consistency","Stylistic Register","Relational Address"]}
+{"idx":639,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Reference Consistency","Relational Address"]}
+{"idx":640,"context":"Local contextual knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":641,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Logical Connectivity"]}
+{"idx":642,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Reference Consistency","Relational Address"]}
+{"idx":643,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":644,"context":"Local contextual knowledge","skill":["Modality and Attitude","Reference Consistency","Logical Connectivity"]}
+{"idx":645,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":646,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":647,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":648,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":649,"context":"Sentence-level knowledge","skill":["Relational Address","Logical Connectivity","Modality and Attitude"]}
+{"idx":650,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":651,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":652,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":653,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":654,"context":"Local contextual knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":655,"context":"Sentence-level knowledge","skill":["Relational Address","Logical Connectivity","Participant Focus"]}
+{"idx":656,"context":"Local contextual knowledge","skill":["Modality and Attitude","Reference Consistency","Logical Connectivity"]}
+{"idx":657,"context":"Sentence-level knowledge","skill":["Stylistic Register","Relational Address","Modality and Attitude"]}
+{"idx":658,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":659,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Logical Connectivity"]}
+{"idx":660,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Stylistic Register","Reference Consistency"]}
+{"idx":661,"context":"Sentence-level knowledge","skill":["Participant Focus","Reference Consistency","Relational Address"]}
+{"idx":662,"context":"Universal contextual knowledge","skill":["Logical Connectivity","Terminology Control","Reference Consistency"]}
+{"idx":663,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":664,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":665,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":666,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Reference Consistency"]}
+{"idx":667,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Logical Connectivity"]}
+{"idx":668,"context":"Local contextual knowledge","skill":["Modality and Attitude","Relational Address","Logical Connectivity"]}
+{"idx":669,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Relational Address"]}
+{"idx":670,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Reference Consistency","Relational Address"]}
+{"idx":671,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":672,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":673,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Terminology Control"]}
+{"idx":674,"context":"Sentence-level knowledge","skill":["Logical Connectivity","Relational Address","Modality and Attitude"]}
+{"idx":675,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Modality and Attitude"]}
+{"idx":676,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Participant Focus","Logical Connectivity"]}
+{"idx":677,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":678,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Logical Connectivity"]}
+{"idx":679,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Reference Consistency"]}
+{"idx":680,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Reference Consistency"]}
+{"idx":681,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":682,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Logical Connectivity","Stylistic Register"]}
+{"idx":683,"context":"Sentence-level knowledge","skill":["Reference Consistency","Relational Address","Modality and Attitude"]}
+{"idx":684,"context":"Sentence-level knowledge","skill":["Participant Focus","Modality and Attitude","Stylistic Register"]}
+{"idx":685,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":686,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":687,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":688,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":689,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Relational Address"]}
+{"idx":690,"context":"Extended contextual knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":691,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":692,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":693,"context":"Local contextual knowledge","skill":["Modality and Attitude","Relational Address","Reference Consistency"]}
+{"idx":694,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":695,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":696,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Logical Connectivity"]}
+{"idx":697,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":698,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Participant Focus"]}
+{"idx":699,"context":"Sentence-level knowledge","skill":["Stylistic Register","Relational Address","Reference Consistency"]}
+{"idx":700,"context":"Sentence-level knowledge","skill":["Stylistic Register","Relational Address","Reference Consistency"]}
+{"idx":701,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Relational Address"]}
+{"idx":702,"context":"Local contextual knowledge","skill":["Stylistic Register","Reference Consistency","Relational Address"]}
+{"idx":703,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Relational Address"]}
+{"idx":704,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Participant Focus"]}
+{"idx":705,"context":"Local contextual knowledge","skill":["Modality and Attitude","Reference Consistency","Stylistic Register"]}
+{"idx":706,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":707,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Reference Consistency"]}
+{"idx":708,"context":"Sentence-level knowledge","skill":["Terminology Control","Relational Address","Stylistic Register"]}
+{"idx":709,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":710,"context":"Universal contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":711,"context":"Extended contextual knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":712,"context":"Universal contextual knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":713,"context":"Local contextual knowledge","skill":["Modality and Attitude","Reference Consistency","Relational Address"]}
+{"idx":714,"context":"Local contextual knowledge","skill":["Relational Address","Modality and Attitude","Reference Consistency"]}
+{"idx":715,"context":"Local contextual knowledge","skill":["Participant Focus","Reference Consistency","Relational Address"]}
+{"idx":716,"context":"Local contextual knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":717,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":718,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":719,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":720,"context":"Sentence-level knowledge","skill":["Relational Address","Reference Consistency","Stylistic Register"]}
+{"idx":721,"context":"Local contextual knowledge","skill":["Stylistic Register","Modality and Attitude","Logical Connectivity"]}
+{"idx":722,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":723,"context":"Sentence-level knowledge","skill":["Relational Address","Idea Development","Logical Connectivity"]}
+{"idx":724,"context":"Extended contextual knowledge","skill":["Participant Focus","Reference Consistency","Relational Address"]}
+{"idx":725,"context":"Local contextual knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":726,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":727,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":728,"context":"Extended contextual knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":729,"context":"Universal contextual knowledge","skill":["Stylistic Register","Relational Address","Reference Consistency"]}
+{"idx":730,"context":"Local contextual knowledge","skill":["Stylistic Register","Modality and Attitude","Relational Address"]}
+{"idx":731,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":732,"context":"Local contextual knowledge","skill":["Reference Consistency","Relational Address","Stylistic Register"]}
+{"idx":733,"context":"Sentence-level knowledge","skill":["Participant Focus","Relational Address","Stylistic Register"]}
+{"idx":734,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":735,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":736,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Reference Consistency"]}
+{"idx":737,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Logical Connectivity"]}
+{"idx":738,"context":"Extended contextual knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":739,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":740,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":741,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Relational Address"]}
+{"idx":742,"context":"Sentence-level knowledge","skill":["Stylistic Register","Reference Consistency","Modality and Attitude"]}
+{"idx":743,"context":"Universal contextual knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":744,"context":"Sentence-level knowledge","skill":["Relational Address","Logical Connectivity","Reference Consistency"]}
+{"idx":745,"context":"Universal contextual knowledge","skill":["Reference Consistency","Modality and Attitude","Relational Address"]}
+{"idx":746,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":747,"context":"Extended contextual knowledge","skill":["Modality and Attitude","Reference Consistency","Stylistic Register"]}
+{"idx":748,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":749,"context":"Extended contextual knowledge","skill":["Modality and Attitude","Reference Consistency","Relational Address"]}
+{"idx":750,"context":"Extended contextual knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":751,"context":"Extended contextual knowledge","skill":["Reference Consistency","Modality and Attitude","Relational Address"]}
+{"idx":752,"context":"Extended contextual knowledge","skill":["Participant Focus","Reference Consistency","Relational Address"]}
+{"idx":753,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":754,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":755,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Relational Address","Modality and Attitude"]}
+{"idx":756,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Modality and Attitude"]}
+{"idx":757,"context":"Sentence-level knowledge","skill":["Reference Consistency","Stylistic Register","Relational Address"]}
+{"idx":758,"context":"Sentence-level knowledge","skill":["Participant Focus","Terminology Control","Logical Connectivity"]}
+{"idx":759,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":760,"context":"Sentence-level knowledge","skill":["Relational Address","Participant Focus","Reference Consistency"]}
+{"idx":761,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":762,"context":"Universal contextual knowledge","skill":["Modality and Attitude","Reference Consistency","Terminology Control"]}
+{"idx":763,"context":"Sentence-level knowledge","skill":["Stylistic Register","Modality and Attitude","Relational Address"]}
+{"idx":764,"context":"Local contextual knowledge","skill":["Relational Address","Reference Consistency","Logical Connectivity"]}
+{"idx":765,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":766,"context":"Sentence-level knowledge","skill":["Relational Address","Terminology Control","Reference Consistency"]}
+{"idx":767,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":768,"context":"Sentence-level knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":769,"context":"Sentence-level knowledge","skill":["Participant Focus","Relational Address","Stylistic Register"]}
+{"idx":770,"context":"Extended contextual knowledge","skill":["Stylistic Register","Reference Consistency","Relational Address"]}
+{"idx":771,"context":"Extended contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":772,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Stylistic Register","Reference Consistency"]}
+{"idx":773,"context":"Extended contextual knowledge","skill":["Reference Consistency","Participant Focus","Stylistic Register"]}
+{"idx":774,"context":"Extended contextual knowledge","skill":["Stylistic Register","Reference Consistency","Information Density"]}
+{"idx":775,"context":"Local contextual knowledge","skill":["Participant Focus","Stylistic Register","Reference Consistency"]}
+{"idx":776,"context":"Sentence-level knowledge","skill":["Participant Focus","Modality and Attitude","Stylistic Register"]}
+{"idx":777,"context":"Sentence-level knowledge","skill":["Relational Address","Modality and Attitude","Stylistic Register"]}
+{"idx":778,"context":"Extended contextual knowledge","skill":["Idea Development","Reference Consistency","Relational Address"]}
+{"idx":779,"context":"Sentence-level knowledge","skill":["Modality and Attitude","Participant Focus","Logical Connectivity"]}
+{"idx":780,"context":"Sentence-level knowledge","skill":["Reference Consistency","Modality and Attitude","Relational Address"]}
+{"idx":781,"context":"Extended contextual knowledge","skill":["Reference Consistency","Information Density","Participant Focus"]}
+{"idx":782,"context":"Sentence-level knowledge","skill":["Information Density","Participant Focus","Stylistic Register"]}
+{"idx":783,"context":"Extended contextual knowledge","skill":["Information Density","Stylistic Register","Reference Consistency"]}
+{"idx":784,"context":"Sentence-level knowledge","skill":["Participant Focus","Reference Consistency","Logical Connectivity"]}
+{"idx":785,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Information Density","Reference Consistency"]}
+{"idx":786,"context":"Global contextual knowledge","skill":["Reference Consistency","Stylistic Register","Participant Focus"]}
+{"idx":787,"context":"Local contextual knowledge","skill":["Reference Consistency","Stylistic Register","Modality and Attitude"]}
+{"idx":788,"context":"Local contextual knowledge","skill":["Relational Address","Reference Consistency","Participant Focus"]}
+{"idx":789,"context":"Extended contextual knowledge","skill":["Relational Address","Modality and Attitude","Information Density"]}
+{"idx":790,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Reference Consistency","Information Density"]}
+{"idx":791,"context":"Local contextual knowledge","skill":["Relational Address","Stylistic Register","Reference Consistency"]}
+{"idx":792,"context":"Sentence-level knowledge","skill":["Participant Focus","Information Density","Stylistic Register"]}
+{"idx":793,"context":"Extended contextual knowledge","skill":["Information Density","Stylistic Register","Participant Focus"]}
+{"idx":794,"context":"Sentence-level knowledge","skill":["Participant Focus","Information Density","Relational Address"]}
+{"idx":795,"context":"Local contextual knowledge","skill":["Logical Connectivity","Reference Consistency","Participant Focus"]}
+{"idx":796,"context":"Extended contextual knowledge","skill":["Participant Focus","Stylistic Register","Information Density"]}
+{"idx":797,"context":"Sentence-level knowledge","skill":["Information Density","Participant Focus","Relational Address"]}
+{"idx":798,"context":"Sentence-level knowledge","skill":["Relational Address","Information Density","Participant Focus"]}
+{"idx":799,"context":"Extended contextual knowledge","skill":["Information Density","Logical Connectivity","Participant Focus"]}
+{"idx":800,"context":"Sentence-level knowledge","skill":["Participant Focus","Reference Consistency","Information Density"]}
+{"idx":801,"context":"Extended contextual knowledge","skill":["Stylistic Register","Relational Address","Reference Consistency"]}
+{"idx":802,"context":"Extended contextual knowledge","skill":["Relational Address","Information Density","Participant Focus"]}
+{"idx":803,"context":"Extended contextual knowledge","skill":["Logical Connectivity","Participant Focus","Idea Development"]}
+{"idx":804,"context":"Local contextual knowledge","skill":["Logical Connectivity","Reference Consistency","Information Density"]}
+{"idx":805,"context":"Extended contextual knowledge","skill":["Information Density","Reference Consistency","Relational Address"]}
+{"idx":806,"context":"Extended contextual knowledge","skill":["Reference Consistency","Modality and Attitude","Information Density"]}
+{"idx":807,"context":"Local contextual knowledge","skill":["Reference Consistency","Stylistic Register","Modality and Attitude"]}
+{"idx":808,"context":"Local contextual knowledge","skill":["Stylistic Register","Relational Address","Reference Consistency"]}
