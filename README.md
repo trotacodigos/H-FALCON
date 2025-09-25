@@ -38,7 +38,7 @@ If you use this repository, please cite our preprint:
 @inproceedings{kim2025hfalcon,
   title     = {Context is Ubiquitous, but Rarely Changes Judgments: Revisiting Document-Level MT Evaluation},
   author    = {Kim, Ahrii},
-  booktitle = {Proceedings of the Conference on Machine Translation (WMT)},
+  booktitle = {TechRxiv},
   year      = {2025},
   doi       = {10.36227/techrxiv.175616908.81882817/v1},
 }
