@@ -8,7 +8,7 @@ This repository contains the data and resources accompanying our paper:
 <figure style="text-align:center;">
   <img src="utils/main.png" alt="evaluation process" width="700">
   <figcaption>
-    <b>Figure 1:</b> The evaluation process of FALCON ([Kim, 2025](https://aclanthology.org/2025.acl-industry.12/)), consisting of (1) labeling relevant contextual knowledge and (2) assessing translation skills, followed by (3) rating. In H-FALCON, this dual-phase process is streamlined by simultaneously conducting labeling and rating for all sentences.
+    <b>Figure 1:</b> The evaluation process of FALCON (Kim, 2025), consisting of (1) labeling relevant contextual knowledge and (2) assessing translation skills, followed by (3) rating. In H-FALCON, this dual-phase process is streamlined by simultaneously conducting labeling and rating for all sentences.
   </figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ This repository contains the data and resources accompanying our paper:
     
 ## Abstract
 
-As sentence-level performance in modern Machine Translation (MT) has plateaued, reliable document-level evaluation is increasingly needed. While the recent FALCON framework with pragmatic features offers a promising direction, its reliability and reproducibility are unclear. We address this gap through human evaluation, analyzing sources of low inter-annotator agreement and identifying key factors. Based on these findings,we introduce H-FALCON,a Human-centered refinement of FALCON. Our experiments show that,even with limited annotator consensus, H-FALCON achieves correlations comparable to or better than standard sentence-level protocols. 
+As sentence-level performance in modern Machine Translation (MT) has plateaued, reliable document-level evaluation is increasingly needed. While the recent FALCON ([Kim, 2025](https://aclanthology.org/2025.acl-industry.12/)) framework with pragmatic features offers a promising direction, its reliability and reproducibility are unclear. We address this gap through human evaluation, analyzing sources of low inter-annotator agreement and identifying key factors. Based on these findings,we introduce H-FALCON,a Human-centered refinement of FALCON. Our experiments show that,even with limited annotator consensus, H-FALCON achieves correlations comparable to or better than standard sentence-level protocols. 
 
 Furthermore,we find that contextual information is inherent in all sentences, challenging the view that only some require it. This suggests that prior estimates such as“n% of sentences require context” may stem from methodological artifacts. At the same time,we show that while context is pervasive,not all of it directly influences human judgment.
 
