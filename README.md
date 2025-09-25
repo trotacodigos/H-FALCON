@@ -3,10 +3,10 @@
 This repository contains the data and resources accompanying our paper:
 “Context is Ubiquitous, but Rarely Changes Judgments: Revisiting Document-Level MT Evaluation”
 
-📄 Accepted at WMT 2025 (Research Track) (Preprint is [here](https://www.techrxiv.org/users/915991/articles/1324863-context-is-ubiquitous-but-rarely-changes-judgments-revisiting-document-level-mt-evaluation)).
+📄 Accepted at WMT 2025 (Research Paper) (Preprint is [here](https://www.techrxiv.org/users/915991/articles/1324863-context-is-ubiquitous-but-rarely-changes-judgments-revisiting-document-level-mt-evaluation)).
 
 <figure>
-  <img src="script/main" alt="evaluation process" width="500">
+  <img src="utils/main" alt="evaluation process" width="500">
   <figcaption>
     <b>Figure 1:</b> The evaluation process of FALCON, consisting of (1) labeling relevant contextual knowledge and (2) assessing translation skills, followed by (3) rating.  
     In H-FALCON, this dual-phase process is streamlined by simultaneously conducting labeling and rating for all sentences.
