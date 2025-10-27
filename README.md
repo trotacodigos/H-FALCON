@@ -35,13 +35,19 @@ A demo of the H-FALCON human evaluation environment will be released soon. Stay 
 # Citation
 If you use this repository, please cite our preprint:
 ```
-@inproceedings{kim2025hfalcon,
-  title     = {Context is Ubiquitous, but Rarely Changes Judgments: Revisiting Document-Level MT Evaluation},
+@InProceedings{kim:2025:WMT2,
   author    = {Kim, Ahrii},
-  booktitle = {TechRxiv},
-  year      = {2025},
-  doi       = {10.36227/techrxiv.175616908.81882817/v1},
+  title     = {A Preliminary Study of AI Agent Model in Machine Translation},
+  booktitle      = {Proceedings of the Tenth Conference on Machine Translation (WMT 2025)},
+  month          = {November},
+  year           = {2025},
+  address        = {Suzhou, China},
+  publisher      = {Association for Computational Linguistics},
+  pages     = {583--586},
+  abstract  = {We present IR\_Multi-agentMT, our submission to the WMT25 General Shared Task. The system adopts an AI-agent paradigm implemented through a multi-agent workflow, Prompt Chaining, in combination with RUBRIC-MQM, an automatic MQM-based error annotation metric. Our primary configuration follows the Translate–Postedit–Proofread paradigm, where each stage progressively enhances translation quality. We conduct a preliminary study to investigate (i) the impact of initial translation quality and (ii) the effect of enforcing explicit responses from the Postedit Agent. Our findings highlight the importance of both factors in shaping the overall performance of multi-agent translation systems.},
+  url       = {https://aclanthology.org/2025.wmt-1.32}
 }
+
 ```
 
     
