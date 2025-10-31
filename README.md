@@ -3,7 +3,7 @@
 This repository contains the data and resources accompanying our paper:
 “Context is Ubiquitous, but Rarely Changes Judgments: Revisiting Document-Level MT Evaluation”
 
-📄 Accepted at WMT 2025 (Research Paper) (Preprint is [here](https://www.techrxiv.org/users/915991/articles/1324863-context-is-ubiquitous-but-rarely-changes-judgments-revisiting-document-level-mt-evaluation)).
+📄 @WMT 2025 [Research Paper](https://www2.statmt.org/wmt25/pdf/2025.wmt-1.5.pdf)
 
 <figure style="text-align:center;">
   <img src="utils/main.png" alt="evaluation process" width="700">
